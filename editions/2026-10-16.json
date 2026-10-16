@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-16",
+  "published": "8:31 a.m. Pacific",
+  "label": "NO. 002 · FRIDAY EDITION",
+  "note": "Public career intelligence. New tooling, durable design judgment, and a deliberately selective opportunity desk.",
+  "kicker": "Design leadership · Beyond the prototype",
+  "headline": "The next design deliverable is a decision people can test.",
+  "summary": "Figma’s October 15 releases put working code and written intent beside the canvas. The senior-level opportunity is not producing more artifacts; it is making consequential choices easier to inspect, challenge and carry into production.",
+  "readTime": "4 minute read",
+  "body": [
+    "What changed: Figma announced open-beta code layers and introduced Specs on October 15. The primary-source reports below describe those capabilities. These are product announcements, not independent evidence of productivity gains or a change in design hiring levels. Today’s career argument is an editorial inference: as more people can make plausible interfaces, the valuable differentiator is the quality of the decision process around them.",
+    "For staff and senior-staff designers, that suggests a sharper portfolio structure. Begin with a consequential uncertainty: whether a person understands a permission, can recover from a mistake, or can compare options without losing context. Show two credible approaches, the evidence used to choose between them, and the constraints that survived implementation. A working demo is useful evidence only when a reviewer can see what it helped the team learn.",
+    "My recommendation is a small decision package, not a grand tool migration. Pair one interactive flow with a short statement of intent, rejected alternatives, unresolved questions and acceptance criteria. Include a loading state, an error, a keyboard path and a recovery path. Write down who resolves a disagreement and which assumptions need user evidence. These are proposed working practices, not capabilities that a new tool automatically supplies.",
+    "The systems question comes next. A component library can be visually consistent while its products disagree about permissions, destructive actions or empty states. Demonstrate how a shared pattern changes behavior across multiple surfaces, how exceptions are governed, and how teams adopt it. For a senior IC, influence is stronger evidence when it includes a repeatable mechanism rather than a story about personally fixing every screen.",
+    "There is also an organizational boundary worth protecting. A prototype that looks production-ready can hide missing data rules, accessibility defects and maintenance costs. Agree with engineering on what is experimental, what can be reused, and what needs a separate implementation review. In a portfolio, show that boundary explicitly. Technical fluency should make collaboration more precise; it should not imply that one designer is now accountable for every engineering discipline.",
+    "The opportunity desk is intentionally quiet today. This scan did not establish a newly posted or materially changed opening with sufficiently verified live details to recommend. One promising systems role returned only a JavaScript shell on its employer-hosted listing, and the supporting public feed could not be retrieved. That is a verification limitation, not evidence that the role closed or that the market is weak. No title-change trend is established by today’s sources."
+  ],
+  "priorities": [
+    "Package one design decision for review: alternatives, a testable interaction, failure states and a clear acceptance bar.",
+    "Audit one shared pattern for behavior and accessibility—not just visual consistency—and identify who owns exceptions.",
+    "For a future role conversation, ask about cross-team authority, implementation partnership and level calibration before interpreting the title."
+  ],
+  "sectionTitle": "Three signals worth your attention",
+  "stories": [
+    {
+      "section": "Design craft · October 15, 2026",
+      "title": "Code layers brings executable alternatives into shared critique.",
+      "summary": "Figma says code layers is entering open beta. Teams can import supported lightweight prototyping codebases, compare working variants on the canvas, extract editable design layers and push updated code to a branch for review. The announcement describes collaborative exploration, not a guarantee that an arbitrary production application can be imported or safely shipped unchanged.",
+      "takeaway": "Editorial judgment: use a narrow, non-sensitive example to test whether reviewers spot interaction problems earlier. Track decisions resolved and downstream rework, not just time to the first demo. Treat vendor customer anecdotes as anecdotes.",
+      "source": "Figma · Sean Blanton · October 15",
+      "url": "https://www.figma.com/blog/design-together-with-code-layers/"
+    },
+    {
+      "section": "Systems & organizational scope · October 15, 2026",
+      "title": "Specs makes written intent part of the design surface.",
+      "summary": "Figma introduced Specs as a collaborative container for Markdown and linked canvas context. Its announcement describes shared decisions, embedded designs and diagrams, agent-readable context through MCP, and comments that people and agents can work through. An Intuit staff designer’s example documents icon metadata alongside the icons.",
+      "takeaway": "Editorial judgment: the useful skill is maintaining a clear source of intent. Establish an owner, review status and unresolved assumptions; otherwise a beautifully connected document can spread an obsolete decision faster. This is a responsibility signal, not proof that “context designer” is becoming a standard job title.",
+      "source": "Figma · Luke Zhang, Johnny Dallas and Aosheng Ran · October 15",
+      "url": "https://www.figma.com/blog/introducing-figma-specs/"
+    },
+    {
+      "section": "Platform stewardship · October 14 recap",
+      "title": "Adobe’s migration story is a reminder that maintenance is design work.",
+      "summary": "Adobe’s October 14 developer recap covers its September 29–30 event. It says CEP plugins will keep working through 2029 while UXP becomes the future, and points to migration guidance and enterprise integrations. The event is older background; the recap is recent. It is not an announcement that all integrations must be rebuilt today.",
+      "takeaway": "Editorial judgment: if a workflow depends on creative-tool extensions, map dependencies, user disruption and ownership before proposing a migration. Experience continuity across a platform transition is a credible senior-level story—even when it produces fewer glamorous screenshots than a new AI demo.",
+      "source": "Adobe Developers · October 14, 2026 recap",
+      "url": "https://blog.developer.adobe.com/en/publish/2026/10/adobe-developers-live-2026-recap-cep-to-uxp-migration-express-connectors-and-what-we-publish-next"
+    }
+  ],
+  "coverage": [
+    "Primary articles checked October 16, 2026, during the morning Pacific preparation run. Story links are the source record. Figma announcements are dated October 15; Adobe’s October 14 recap describes a September 29–30 event.",
+    "Job verification attempted October 16: https://jobs.ashbyhq.com/vanta/0fcbc935-76c7-4eac-b522-af421ed200c9 returned a JavaScript-only page; https://api.ashbyhq.com/posting-api/job-board/vanta returned HTTP 403. No vacancy, compensation or newly-posted claim is made from search snippets.",
+    "Facts are attributed to primary sources. Recommendations and career implications are editorial judgments, not measured hiring trends or claims about any particular employer.",
+    "Public industry content only. No applications or recruiter outreach. Job matching remains exploratory until location, work arrangement, level, compensation structure, portfolio evidence and IC/management scope can be assessed.",
+    "Dated editions are preserved. No prior edition was rewritten.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ]
+}

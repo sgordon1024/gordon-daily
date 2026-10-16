@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-10-16",
+      "headline": "The next design deliverable is a decision people can test.",
+      "summary": "Figma’s October 15 releases put working code and written intent beside the canvas. The senior-level opportunity is not producing more artifacts; it is making consequential choices easier to inspect, challenge and carry into production."
+    },
+    {
       "date": "2026-10-15",
       "headline": "The title may stay. The job is moving.",
       "summary": "For a senior staff product designer, the useful question is not whether AI will rename the role. It is which decisions, skills and responsibilities employers increasingly expect you to own."
