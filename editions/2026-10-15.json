@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-15",
+  "published": "3:20 p.m.",
+  "label": "NO. 001 · FOUNDING EDITION",
+  "note": "A career-intelligence newspaper for a senior staff product designer. This first edition establishes the baseline; it is not a claim that every item broke today.",
+  "kicker": "Design × AI · The career question",
+  "headline": "The title may stay. The job is moving.",
+  "summary": "For a senior staff product designer, the useful question is not whether AI will rename the role. It is which decisions, skills and responsibilities employers increasingly expect you to own.",
+  "readTime": "4 minute read",
+  "body": [
+    "My take: don’t rush to replace your title with an AI label. Build a stronger story about the scope you own: identifying the right problem, shaping behavior across a system, testing it with people, and bringing teams to a defensible decision.",
+    "The evidence is directional, not a prediction about your employer. Figma’s June 2026 survey reports more overlap between design and development. Its sample reflects product builders, not the whole labor market. Separately, OpenAI is recruiting a Product Designer for consumer experiences whose responsibilities include agent interactions, trust and user control. The familiar title remains; the work described is changing.",
+    "For your next portfolio revision, my recommendation is one case study showing an AI-enabled workflow from ambiguity to a working prototype, including evaluation, failure recovery and the choices you rejected. Show the judgment behind what ships, not merely how quickly you produced screens.",
+    "This newspaper will separate three things: what changed, what it could mean for your career, and one worthwhile action. Jobs will be evaluated for actual scope and fit—not recommended just because an AI company posted them."
+  ],
+  "priorities": [
+    "Track role scope before title inflation: ownership, influence and outcomes matter more than a fashionable label.",
+    "Review the exploratory consumer-design opening below if San Francisco and hands-on IC work appeal.",
+    "Pick one portfolio case where you can demonstrate judgment about AI behavior, not just AI-assisted production."
+  ],
+  "sectionTitle": "Industry signals & the opportunity desk",
+  "stories": [
+    {
+      "section": "Industry baseline · June 24",
+      "title": "The boundary between design and development is getting thinner.",
+      "summary": "Figma’s 2026 report says 41% of designers in its survey participate in development, while 60% of developers do design work. These are survey findings from a design-tool vendor, not a forecast that senior design roles disappear.",
+      "takeaway": "Bart’s take: strengthen your ability to prototype and critique working systems, while keeping research, product framing and design quality central.",
+      "source": "Figma · 2026 AI report",
+      "url": "https://www.figma.com/blog/2026-ai-report/"
+    },
+    {
+      "section": "Research watch · September 22",
+      "title": "Faster prototypes are not the same as better product decisions.",
+      "summary": "A preprint describes an experiment with 50 designers and 50 product managers. Among task completers, access to Figma Make was associated with roughly 20% shorter completion times, with larger gains for PMs. Standardized tasks and completion-time results do not establish whole-job replacement.",
+      "takeaway": "Bart’s take: test where AI saves you time on real work, and measure quality and rework alongside speed.",
+      "source": "Stewart et al. · arXiv preprint",
+      "url": "https://arxiv.org/abs/2609.26725"
+    },
+    {
+      "section": "Exploratory job · Checked October 15",
+      "title": "OpenAI: Product Designer, Consumer Verticals",
+      "summary": "San Francisco HQ; advertised base pay $245K–$310K plus equity. The posting seeks substantial consumer-product experience, zero-to-one work and strong interaction craft. It includes designing agentic experiences and user control. The title does not establish a Senior Staff-equivalent level.",
+      "takeaway": "Investigate, not yet an apply recommendation. Potential fit if your portfolio shows complex consumer systems; location, compensation goals and level equivalence still need checking.",
+      "source": "OpenAI · role details and application",
+      "url": "https://openai.com/careers/product-designer-consumer-verticals-san-francisco/"
+    }
+  ],
+  "coverage": [
+    "Sources checked October 15, 2026. Older research is labeled as background, not today’s news. A job checked today is not necessarily newly posted today.",
+    "Career commentary is editorial analysis, not a prediction about your employer or guaranteed job fit. Location, desired compensation, portfolio evidence and IC-versus-management preference remain to be established.",
+    "Published editions remain dated snapshots. Corrections will be labeled rather than silently replacing the historical record.",
+    "Correction: the initial display time was corrected from 3:35 p.m. to the actual initial publication time, 3:20 p.m. Pacific; the article content is unchanged.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ]
+}
