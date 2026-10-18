@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-10-18",
+      "headline": "Design the work behind the interface.",
+      "summary": "When generating an interface gets easier, the operating experience deserves more attention: who maintains content, who can change it, and how people recover when it goes wrong. That is a concrete senior-level design problem—not a prediction that a job title will disappear."
+    },
+    {
       "date": "2026-10-16",
       "headline": "The next design deliverable is a decision people can test.",
       "summary": "Figma’s October 15 releases put working code and written intent beside the canvas. The senior-level opportunity is not producing more artifacts; it is making consequential choices easier to inspect, challenge and carry into production."

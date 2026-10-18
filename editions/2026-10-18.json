@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-18",
+  "published": "11:40 AM Pacific",
+  "label": "SUNDAY EDITION",
+  "note": "Public career intelligence · A quiet-news-day analysis, two recent releases, and one exploratory role.",
+  "kicker": "Systems & craft · After the first draft",
+  "headline": "Design the work behind the interface.",
+  "summary": "When generating an interface gets easier, the operating experience deserves more attention: who maintains content, who can change it, and how people recover when it goes wrong. That is a concrete senior-level design problem—not a prediction that a job title will disappear.",
+  "readTime": "5 minute read",
+  "body": [
+    "Today’s scan found no material change in the past 48 hours that warrants a breaking-news lead. This Sunday edition instead examines a practical implication of two releases from the past week, plus a live employer listing used as a scope signal. The releases are vendor announcements, not independent productivity studies; the role is not verified as newly posted. The argument that follows is editorial analysis, not a measured labor-market trend.",
+    "Consider an ordinary service directory. Its first screen may look excellent, but the experience also depends on an editor correcting an address, a reviewer checking a claim, and a visitor discovering that an entry is out of date. A useful design brief includes all three people. The design problem is not solved when the page renders; it is solved when the service can keep its promises under everyday change.",
+    "For a staff-level portfolio exercise, map one piece of content from creation to retirement. Identify who supplies it, what makes it trustworthy, which edits need review, and what the reader sees when it expires. Sketch both the public experience and the maintenance experience. This is an editorial recommendation: choose a small, non-sensitive example, not a wholesale platform migration. The objective is to reveal judgment that a polished landing page alone cannot show.",
+    "Craft matters at those boundaries. A status label should distinguish a saved draft from a published change. An empty state should explain whether there is no content, no access, or a failed request. A destructive action should make its consequence understandable and its recovery path discoverable. Test the reading order, keyboard path, long titles, missing images and narrow viewport. These details are proposed review criteria, not assurances about any product mentioned below.",
+    "The organizational work is to make responsibility explicit without making every edit a committee decision. One practical model is an owner for content accuracy, an owner for shared interaction patterns, and an engineering partner for implementation constraints. Agree where exceptions are recorded and when an issue needs escalation. Senior influence becomes legible when other teams can make good decisions without waiting for the same designer to inspect every screen.",
+    "For an AI-assisted workflow, add a small evaluation set before celebrating speed. Try an incomplete source, conflicting details and a correction after publication. Ask whether people can identify the source, understand uncertainty and repair the result. Compare the time to an accepted, maintainable outcome rather than just the time to a first draft. These are suggested measures; this edition does not claim that a specific tool has improved them.",
+    "The career takeaway is to show an operating model alongside the artifact. A case study can explain a consequential trade-off, the people affected, the quality bar, the adoption mechanism and what changed after release. If real outcome evidence is unavailable, label a proposed metric as proposed. Do not turn a hypothetical exercise into a claimed shipped result. The next useful conversation about a role is about decision authority and cross-team scope, not whether its title sounds more fashionable."
+  ],
+  "priorities": [
+    "Map one content lifecycle: draft, review, publish, correct and retire. Include the person maintaining it, not only the reader.",
+    "Build a five-case quality check covering permissions, stale content, failed requests, accessibility and recovery.",
+    "Use role descriptions to calibrate scope; verify leveling and location eligibility before treating a title as a match."
+  ],
+  "sectionTitle": "Two recent releases and one scope signal",
+  "stories": [
+    {
+      "section": "Content systems · October 15, 2026",
+      "title": "Payload puts maintenance beside creation in Figma Make.",
+      "summary": "Figma says its Payload integration supplies a database, file storage, login and an admin panel for content-backed experiences. Teams can manage content through an editing interface with permissions and versioning. Access is rolling out across plans; hosting for Payload-backed Make projects is in beta and currently free, with future pricing to be announced.",
+      "takeaway": "Editorial judgment: evaluate the editor and reviewer journeys alongside the visitor journey. A built-in backend does not by itself establish that a particular application meets its operational requirements. Treat the beta and future pricing as evaluation constraints, not a commitment to adopt.",
+      "source": "Figma · James Mikrut · October 15; checked October 18",
+      "url": "https://www.figma.com/blog/websites-with-payload-in-figma/"
+    },
+    {
+      "section": "AI & design craft · October 13 update",
+      "title": "Acrobat moves document content into visual-asset creation.",
+      "summary": "Adobe’s October desktop release notes describe creating flyers, social posts, newsletters and other visual assets from document content with Adobe Express AI Assistant, then refining the selected design conversationally. The page was updated October 13 and warns that features roll out in phases.",
+      "takeaway": "Editorial judgment: evaluate whether the resulting asset preserves meaning, hierarchy and essential qualifications—not merely whether it looks finished. For a design-system team, the interesting question is how review criteria travel across formats. This is a feature announcement, not evidence of reduced designer headcount.",
+      "source": "Adobe Acrobat release notes · updated October 13; checked October 18",
+      "url": "https://helpx.adobe.com/acrobat/desktop/whats-new/whats-new-acrobat-desktop.html"
+    },
+    {
+      "section": "Opportunity desk · Exploratory / posting date unknown",
+      "title": "Atlassian’s Rovo role emphasizes cross-product design scope.",
+      "summary": "The live Principal Product Designer, Rovo & AI listing asks for enterprise experience, organization-wide programs, systems thinking and outcome measurement. The employer’s job index lists San Francisco or Remote; the team spans Australia and western North America. US annual base ranges: Zone A $221,400–$289,050; B $199,260–$260,145; C $183,762–$239,912. Other compensation may apply; these are not total-compensation figures.",
+      "takeaway": "Exploratory recommendation: worth scope review for a senior IC with multi-team evidence. The body calls it Lead Product Designer despite the Principal heading: confirm leveling, decision authority, eligible remote location, pay zone and collaboration hours. Portfolio fit, preferred location, compensation fit and IC/management alignment remain unassessed. No posting date or material change was verified; this is a live background lead, not a new vacancy alert.",
+      "source": "Atlassian careers · requisition 27204 · checked October 18",
+      "url": "https://www.atlassian.com/company/careers/details/27204"
+    }
+  ],
+  "coverage": [
+    "Primary sources checked October 18, 2026, during late-morning Pacific preparation. Figma announcement: October 15. Adobe page update: October 13, describing its October release. Neither is presented as last-48-hours news.",
+    "Atlassian role page and employer job index opened October 18: https://www.atlassian.com/company/careers/details/27204 and https://www.atlassian.com/company/careers/all-jobs?team=Design . Posting date and change history unavailable; location eligibility and level need confirmation.",
+    "No material last-48-hours development established in this bounded scan; this is not a claim that the entire industry was inactive. Recommendations are editorial judgments, not verified hiring trends.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ]
+}
