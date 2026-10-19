@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-19",
+  "published": "8:31 AM Pacific",
+  "label": "MONDAY EDITION",
+  "note": "Public career intelligence · Research quality, mapping craft and accessibility governance.",
+  "kicker": "Senior IC practice · Evidence before confidence",
+  "headline": "Make the missing evidence visible.",
+  "summary": "A convincing answer is not the same as a representative one. The useful senior-design move is to show which decisions rest on observation, which rest on assumptions, and what would change your mind.",
+  "readTime": "5 minute read",
+  "body": [
+    "This morning’s bounded scan established no material last-48-hours change worth a breaking-news lead. There is useful reading from the past week, however: a research comparison published Friday, a new mapping reference, and an accessibility working-group update. Today’s deeper analysis concerns decision quality. It is editorial advice for senior individual contributors, not a claim that employers have universally changed their requirements or that a particular design title is disappearing.",
+    "The practical proposal: put an evidence key on one design review. Mark each consequential claim as observed, inferred, or untested. Attach the relevant source or study, explain whose experience it represents, and name the decision it can actually support. A beautiful presentation can otherwise make three very different things look equally certain: a customer’s observed difficulty, a team’s interpretation, and a plausible scenario generated to explore an idea. Keep those distinctions visible without turning the review into a methodology lecture.",
+    "Consider a hypothetical account-recovery redesign. A team might have a convincing prototype and several sensible explanations for why people abandon the current flow. Before polishing another screen, write down competing explanations: perhaps the language is confusing, perhaps a required document is unavailable, or perhaps the person has lost access to the verification channel. Each explanation implies a different intervention. A copy change cannot fix an unavailable document. This is an illustrative exercise, not a report of research performed for a real product.",
+    "Choose a small decision and define a test that could reject your preferred solution. If the question is whether people understand a recovery option, observe comprehension and next steps with relevant participants. If the question is operational feasibility, involve the people who would handle exceptions. If an AI tool suggests alternative scenarios, treat them as candidates for investigation. Do not count generated characters as recruited participants or attach invented quotations to a persona. The proposed quality bar is traceability from a claim to the evidence that supports it.",
+    "The design-system opportunity is to make uncertainty understandable in the interface as well as in the review. An estimated completion time, a pending identity check and a confirmed account restoration should not share an indistinguishable success treatment. Draft the wording, visual hierarchy and interaction behavior for each state. Include a keyboard path and a recovery route. Then ask whether the pattern remains intelligible when reused by a different team. These are suggested craft checks, not a claim that a component library can certify an entire experience.",
+    "At staff scope, the leverage comes from making this practice easy for others to repeat. A lightweight decision record could contain the choice, evidence, unresolved question, owner and review trigger. Avoid requiring a new committee for every experiment. Instead, agree which kinds of uncertainty can be explored cheaply and which need stronger evidence before release. A reversible wording experiment and a change that can lock someone out of a service should not inherit the same review process simply because both involve a button.",
+    "For career conversations, make this judgment concrete. A case study can show a time that evidence changed the direction, the trade-off you negotiated, and how other teams used the result. Separate your own contribution from collaborators’ work and report only outcomes you can substantiate. When evaluating a senior role, ask who defines success, who can challenge assumptions, and whether research and accessibility partners have influence before implementation. These are suggested scope questions, not evidence of a new hiring trend. No newly posted or materially changed vacancy was verified in today’s limited opportunity scan, so this edition adds no job lead."
+  ],
+  "priorities": [
+    "Add an observed / inferred / untested key to one decision review; identify the evidence that could reverse the choice.",
+    "Pick a map for a specific unresolved question, then annotate the unknowns rather than filling them with plausible detail.",
+    "Make evidence quality part of your senior-scope story: explain a changed decision and cross-team adoption, not just the final artifact."
+  ],
+  "sectionTitle": "Three signals from the past week",
+  "stories": [
+    {
+      "section": "Research & AI · Published October 16",
+      "title": "Synthetic agreement can conceal missing variation.",
+      "summary": "NN/g compared 120 synthetic respondents with an earlier survey of 604 humans on terminology for UX work. Both favored UX-related language, but generated responses offered about a dozen labels versus more than 50 from humans. Synthetic data were collected in February 2026; this is a newly published analysis, not a new October experiment. The article notes differences in sample composition and question presentation.",
+      "takeaway": "Editorial judgment: useful evidence for challenging claims that plausible synthetic answers replace discovery, not a universal benchmark of all models. Keep generated hypotheses separate from observed user evidence. This terminology exercise does not measure employer hiring or prove that job titles are converging.",
+      "source": "Nielsen Norman Group · Rachel Banawa · October 16, 2026; checked October 19",
+      "url": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/"
+    },
+    {
+      "section": "Design craft · Published October 16",
+      "title": "Choose the map by the question, not the template.",
+      "summary": "NN/g’s new glossary distinguishes mapping artifacts, including journey maps, ecosystem maps, service blueprints and user flows. It frames maps as aids to shared understanding and provides definitions and links for selecting an appropriate form. This is a reference publication, not evidence that mapping itself is a new practice.",
+      "takeaway": "Editorial application: before a workshop, write the question the map must answer and the decision it should enable. A polished map with invented certainty is less useful than a rough one that clearly identifies gaps. For cross-team work, make the scope and meaning of each lane explicit.",
+      "source": "Nielsen Norman Group · Huei-Hsin Wang and Hayat Sheikh · October 16, 2026; checked October 19",
+      "url": "https://www.nngroup.com/articles/ux-maps-glossary/"
+    },
+    {
+      "section": "Accessibility & systems · October 13 meeting",
+      "title": "Separate standards development from shipped requirements.",
+      "summary": "W3C’s Accessibility Guidelines Working Group topics page, updated October 14, records an October 13 discussion of proposed WCAG 2 changes and a review of the WCAG 3 schedule for 2027 and 2028. The meeting record is evidence of ongoing standards work, not an announcement that WCAG 3 has become a final replacement standard.",
+      "takeaway": "Editorial judgment: keep a monitored standards backlog separate from the criteria used to evaluate a current release. Record the version and scope of any accessibility claim, and involve accessibility specialists when deciding what a proposed change means for shared patterns. An agenda item alone is not a new compliance requirement.",
+      "source": "W3C WAI · AGWG meeting topics and October 13 minutes · checked October 19, 2026",
+      "url": "https://www.w3.org/WAI/about/groups/agwg/minutes/topics/"
+    }
+  ],
+  "coverage": [
+    "Primary sources opened October 19, 2026, during morning Pacific preparation. NN/g articles published October 16. Synthetic responses collected February 2026 and compared with an earlier human survey; publication date is distinct from data collection.",
+    "W3C topics page updated October 14; event October 13. Meeting minutes also opened: https://www.w3.org/2026/10/13-ag-minutes.html . No final-standard or legal-change claim is made.",
+    "Freshness scan included Figma, NN/g, Microsoft design/developer material and accessibility sources. No material last-48-hours development established in this bounded scan. Selected items are within seven days; no recycled prior-edition source URLs among the three stories.",
+    "Limited hiring search did not establish a newly posted or materially changed suitable vacancy. No job recommendation, salary estimate, application or outreach. This is not a claim that no relevant openings exist.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ]
+}

@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-10-19",
+      "headline": "Make the missing evidence visible.",
+      "summary": "A convincing answer is not the same as a representative one. The useful senior-design move is to show which decisions rest on observation, which rest on assumptions, and what would change your mind."
+    },
+    {
       "date": "2026-10-18",
       "headline": "Design the work behind the interface.",
       "summary": "When generating an interface gets easier, the operating experience deserves more attention: who maintains content, who can change it, and how people recover when it goes wrong. That is a concrete senior-level design problem—not a prediction that a job title will disappear."
