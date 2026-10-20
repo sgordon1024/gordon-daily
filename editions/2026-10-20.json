@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-20",
+  "published": "8:31 AM Pacific",
+  "label": "TUESDAY EDITION",
+  "note": "Public career intelligence · Role clarity, shared quality and durable decisions.",
+  "kicker": "Senior IC practice · Define the responsibility",
+  "headline": "A title is not a scope agreement.",
+  "summary": "The useful career question is not whether designers must become something else. It is which decisions they own, what quality they can demonstrate, and how their work helps other teams deliver.",
+  "readTime": "5 minute read",
+  "body": [
+    "Today’s bounded scan did not establish a material development from the last 48 hours that warrants a breaking-news lead. Instead, three primary publications from October 14–16 offer a practical deeper read: a practitioner’s vocabulary for design strengths, an accessibility library with supporting tests, and a method for keeping decisions current. None establishes a market-wide change in hiring. The analysis below is editorial guidance, not a prediction that Product Designer or Staff Designer will disappear.",
+    "The proposed exercise is a scope agreement for a senior individual contributor. Start with one business problem, the decisions the designer is expected to make, the partners needed to make them, and the evidence that would count as success. Then identify what is outside the role. A broad mandate without decision rights can become an unlimited support queue. Conversely, a narrow-sounding title can conceal substantial platform influence. The title alone cannot resolve either situation; ask about the actual operating model.",
+    "Consider a hypothetical enterprise workflow spanning three product teams. Each team has a polished local solution, but a customer moving between them must relearn terminology and interaction behavior. A senior designer’s contribution might be deciding which differences reflect genuine customer needs and which are accidental. The output could include a shared interaction model, a migration sequence and an agreement about exceptions. This example is not a claim about any employer. Its point is that organizational reach is demonstrated through consequential choices, not simply the number of screens delivered.",
+    "For a portfolio, make that reach inspectable without inflating personal credit. Show the initial inconsistency, the alternatives considered, the compromise accepted and the responsibilities retained by engineering, research and other designers. If adoption was partial, say so. Separate a shipped outcome from an expected benefit. A strong case study can include a rejected proposal if it explains what the team learned and why the final direction was better. Do not replace missing outcome evidence with a confident story about transformation.",
+    "AI adds another scope question: who remains accountable when generated work is plausible but incomplete? As an editorial exercise, choose a routine interaction and write down which parts a tool may draft, which checks can run automatically, and which decisions require contextual judgment. A model can help explore alternatives without owning the release decision. The valuable career evidence is not simply that an agent was used; it is whether the designer can explain the constraints, evaluate the result and work with partners to correct failures.",
+    "Turn that exercise into a short role-calibration conversation. Ask what must improve in the first six months, how disagreements between teams get resolved, and which quality problems this role can actually prioritize. Ask whether platform maintenance has capacity or is expected to happen between feature deadlines. These questions distinguish an empowered cross-team IC role from a collection of additional chores. They are suggested questions, not claims about current employer practices or a requirement to pursue management.",
+    "No vacancy is recommended today: the limited search did not verify both suitable scope and a new posting or material change. An employer-page retrieval failure is not evidence that a role has closed, and a recent search crawl is not a posting date. For future opportunities, location, work arrangement, posted base-versus-total compensation, level calibration and portfolio fit still need explicit verification. Until those are known, a recognizable company or a Staff label is a reason to investigate—not a strong match."
+  ],
+  "priorities": [
+    "Write a four-line scope agreement: problem, decision rights, partners and success evidence. Include one explicit boundary.",
+    "Choose one interaction and identify automated checks, human review and the person accountable for release quality.",
+    "Reframe one case-study introduction around a consequential decision and its cross-team effect, with accurate attribution."
+  ],
+  "sectionTitle": "Three useful signals from the past week",
+  "stories": [
+    {
+      "section": "Roles & hiring language · October 16",
+      "title": "Read the attributes, not just the title.",
+      "summary": "Ron Goldin proposes four dimensions—Style, Strategy, Builder and Operator—to describe different strengths under the Product Designer title. His essay connects builder work with functional prototypes and tooling, and operator work with how teams deliver. This is a practitioner’s proposed framework, not a labor-market study or an official leveling system.",
+      "takeaway": "Editorial application: use the framework to ask what a team is missing, not to demand that every candidate excel at everything. Confirm scope and leveling with the employer. A plain Product Designer title is neither proof of a demotion nor proof of staff-equivalent responsibility.",
+      "source": "Ron Goldin · October 16, 2026 · checked October 20",
+      "url": "https://rongoldin.substack.com/p/product-designer-is-no-longer-a-job"
+    },
+    {
+      "section": "Craft & accessibility systems · October 14",
+      "title": "A component can ship with its quality argument.",
+      "summary": "TetraLogical released eight components alongside requirements, test scenarios and working automated tests. The library also documents manual review needs and assistive-technology checks. The team explicitly cautions that these components were built for its own needs and are not a production-ready design system; reuse requires testing in the receiving product.",
+      "takeaway": "Editorial application: study the connection between a component, its intended behavior and the checks that support it. This is a useful reference for design-engineering collaboration, not a shortcut to claiming that an entire product is accessible. Preserve contextual human evaluation alongside automation.",
+      "source": "TetraLogical · Craig Abbott · October 14, 2026 · checked October 20",
+      "url": "https://tetralogical.com/blog/2026/10/14/accessible-components-library/"
+    },
+    {
+      "section": "Organization & AI workflows · October 16",
+      "title": "Retrieved context needs a current decision state.",
+      "summary": "Anton Sten describes separating chronological working notes from a stricter decision record. Dates and retained superseded decisions help distinguish current commitments from abandoned exploration. He argues that giving an agent more searchable material does not, by itself, make the retrieved answer dependable.",
+      "takeaway": "Editorial application: try the distinction on one shared project before introducing a new organization-wide process. Make it easy for a collaborator to identify the current choice and understand a reversal. This is one practitioner’s workflow, not evidence that a particular tool or documentation format improves every team.",
+      "source": "Anton Sten · October 16, 2026 · checked October 20",
+      "url": "https://www.antonsten.com/articles/where-decisions-live/"
+    }
+  ],
+  "coverage": [
+    "Primary story pages read October 20, 2026 during morning Pacific preparation. Publication dates: TetraLogical October 14; Ron Goldin and Anton Sten October 16. All three are within seven days, not last-48-hours announcements.",
+    "Discovery included https://heydesigner.com/2026-10-19/ . Its curation date is not the publication date of the linked articles. Canonical primary URLs are attached to each story; no story URL repeats the recent editions supplied by context.py.",
+    "Bounded freshness scan included Figma and product-design news; no material last-48-hours development established. Role commentary is attributed opinion, not measured hiring demand or evidence that a title is disappearing.",
+    "Limited opportunity scan surfaced employer results but did not establish a suitable newly posted or materially changed vacancy. The Okta Staff Product Designer UI Platform page could not be retrieved with the web tool; no recommendation or closure inference was made. No salary estimate, application or outreach.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ]
+}
