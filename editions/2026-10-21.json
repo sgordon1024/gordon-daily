@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-21",
+  "published": "8:31 AM Pacific",
+  "label": "WEDNESDAY EDITION",
+  "note": "Public career intelligence · Craft, product coherence and cross-team judgment.",
+  "kicker": "Senior IC practice · Make the pieces belong together",
+  "headline": "More features are not a stronger product.",
+  "summary": "When more people can produce credible design work, senior influence can come from shaping a coherent whole. Today’s deeper read separates a useful responsibility from unsupported predictions about job titles.",
+  "readTime": "5 minute read",
+  "body": [
+    "Today’s bounded scan did not establish a material hiring or role change from the last 48 hours. A new creative interview offers a craft perspective; two October 15 publications offer a broader discussion of product judgment and collaboration. The useful question is not whether designers are being replaced. It is how a senior individual contributor can help a growing set of contributors make one understandable product. This is editorial analysis, not a measured labor-market trend.",
+    "The proposed exercise is a coherence review: choose a single customer task that crosses feature boundaries and examine the experience as one journey. Do the names stay consistent? Does the interface preserve the same meaning for the same action? Can someone tell which step is complete and what remains? The unit of review is the customer’s task, not the team’s release. This makes the discussion concrete enough to improve without turning it into a debate about who has better taste.",
+    "Consider a hypothetical analytics product that adds an AI-generated summary to every dashboard. Each summary may be useful on its own, yet the combined experience could repeat information, compete with urgent signals, and make the next action harder to find. The design question is not merely whether the new module works. It is whether the product becomes easier to understand and use with it present. A reasonable outcome could be moving the summary, narrowing its purpose, or deciding that one dashboard does not need it.",
+    "Give that review an explicit standard. For the hypothetical product, a standard might be that someone can distinguish observed results from generated interpretation and reach the underlying evidence without losing their place. That standard produces discussable design decisions: labels, hierarchy, source access, uncertainty and recovery. It does not require inventing a universal score for taste. It also leaves room for an expressive visual treatment as long as the treatment supports, rather than obscures, the task.",
+    "The organizational challenge is deciding who can act on the findings. A cross-product review that identifies contradictions but has no partner team, capacity or decision path may simply create another backlog. A senior designer can propose a small pilot with a product and engineering counterpart: one journey, one agreed problem, one change and a follow-up check. This is a suggested operating model, not a claim that any featured company works this way. Start with a repair that teaches the team how to collaborate.",
+    "For a portfolio, show the before-and-after relationship between the pieces, not only the visual polish of the new piece. Explain what was removed, combined or deliberately left unchanged. State which judgment was yours, where partners changed your view, and what evidence supported the outcome. If the work was a prototype or the impact was not measured, label that boundary. A convincing senior IC example can be a restrained intervention that makes an existing product clearer; it need not be a sweeping redesign.",
+    "This also suggests useful hiring questions. Who is responsible for the experience between teams? Can this role influence an existing roadmap, or only execute an assigned feature? How does the organization revisit a shipped decision that is individually successful but collectively confusing? Ask for examples rather than promises. These questions help calibrate scope across Staff, Principal, Design Engineer and plain Product Designer titles without assuming those titles are interchangeable—or that any one title is disappearing.",
+    "No vacancy is recommended today. The limited opportunity search did not establish a suitable newly posted or materially changed role. That is a coverage limit, not evidence that hiring has stopped. A future lead still needs a live employer page, location and work arrangement, posted compensation with base versus total distinguished, and scope calibration. Any match remains exploratory until those details and fit evidence are known. No application or outreach is part of this brief."
+  ],
+  "priorities": [
+    "Review one customer task across feature boundaries. Name one contradiction in terminology, hierarchy or behavior.",
+    "Write a short quality standard for that task, then identify one change and the partners needed to evaluate it.",
+    "Add a portfolio example of subtraction or integration: what became clearer, what evidence supports that claim, and who contributed."
+  ],
+  "sectionTitle": "Three signals, with their limits",
+  "stories": [
+    {
+      "section": "Craft · October 20",
+      "title": "Creative references are not a productivity metric.",
+      "summary": "Figma’s interview with designer and PIN-UP creative director Ben Ganz explores influences across typography, print, architecture, furniture and fashion. His short answers resist the assumption that a better creative process is simply a more optimized workflow. This is an individual creative perspective, not research about product-team performance.",
+      "takeaway": "Editorial application: bring one reference from outside software to a critique, and explain the specific quality it helps illuminate. A reference should sharpen a design choice, not become an aesthetic justification that overrides usability.",
+      "source": "Figma · October 20, 2026 · checked October 21",
+      "url": "https://www.figma.com/blog/source-material-ben-ganz/"
+    },
+    {
+      "section": "Product judgment & organization · October 15",
+      "title": "Working features can still weaken the whole.",
+      "summary": "Karri Saarinen argues that products acquire character through the choices their makers sustain. He describes judgment as informed by experience and customer contact, and questions whether independently produced additions dilute a shared product perspective. These are a founder’s observations and opinions, not causal evidence that agents reduce product quality.",
+      "takeaway": "Editorial application: use a cross-feature critique to discuss whether additions belong together. Keep the proposed standard visible and testable; invoking intuition alone does not settle a disagreement.",
+      "source": "Karri Saarinen · October 15, 2026 · checked October 21",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+    },
+    {
+      "section": "Collaboration & AI responsibilities · October 15",
+      "title": "Broader participation does not automatically mean shared understanding.",
+      "summary": "Figma’s India announcement reports a survey subset of 507 designers, developers and product managers, collected August 17–September 16. It says 77% of non-designers regularly engage in design activities, while 65% of respondents say increasingly siloed work makes the big picture harder to see. The vendor also announced a Sarvam MCP partnership and expansion of its student program.",
+      "takeaway": "Editorial inference: enabling more contributors and helping them align are different responsibilities. The survey is self-reported and geography-specific; it does not establish worldwide hiring demand, a title change or causal productivity gains. It is a prompt for questions about team coordination, not a forecast.",
+      "source": "Figma · October 15, 2026 · India survey fielded August 17–September 16 · checked October 21",
+      "url": "https://www.figma.com/blog/figma-deepens-investment-in-india/"
+    }
+  ],
+  "coverage": [
+    "Primary story pages read October 21, 2026 during morning Pacific preparation. Ben Ganz interview published October 20; Saarinen essay and Figma India announcement published October 15. All are within seven days; only the interview is a last-48-hours publication.",
+    "No material last-48-hours hiring or role change established in this bounded scan. Three primary story URLs are distinct from those in recent editions supplied by context.py. Discovery included https://www.figma.com/blog/ and https://heydesigner.com/2026-10-19/; curation dates were not treated as original publication dates.",
+    "Background considered but not presented as news: Matt Rothenberg, Pure UI in the Agentic Era, October 5, 2026, https://mattrothenberg.com/notes/pure-ui-agentic-era/ . The primary page date is older than its October 16 discovery listing.",
+    "Limited staff-product-design opportunity searches did not verify a qualifying new or materially changed vacancy. No job recommendation, compensation estimate, application or outreach. Survey findings are attributed, scoped and not presented as employment statistics.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ]
+}
