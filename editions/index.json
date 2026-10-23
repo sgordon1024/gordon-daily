@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-10-23",
+      "headline": "Your design system needs a decision layer.",
+      "summary": "Fresh guidance makes design intent more usable by agents. The senior-design opportunity is to define where those instructions work, where they fail, and who can change them—not just to generate more screens."
+    },
+    {
       "date": "2026-10-22",
       "headline": "An accessible feature still needs an accessible way in.",
       "summary": "Discovery, control and ownership are design problems—not finishing touches. Three public event agendas offer a useful lens on senior product-design scope, without pretending to prove a new hiring trend."

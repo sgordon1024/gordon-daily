@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-23",
+  "published": "8:32 AM Pacific",
+  "label": "FRIDAY EDITION",
+  "note": "Public career intelligence · Design systems, AI workflows and senior IC scope.",
+  "kicker": "Systems & craft · Make judgment testable",
+  "headline": "Your design system needs a decision layer.",
+  "summary": "Fresh guidance makes design intent more usable by agents. The senior-design opportunity is to define where those instructions work, where they fail, and who can change them—not just to generate more screens.",
+  "readTime": "5 minute read",
+  "body": [
+    "Today’s concrete signal is a workflow change, not a new job-title forecast. Figma published guidance on October 23 for supplying its agent with design-system context. Separately, thoughtbot’s October 20 essay, updated October 22, argues for code-first systems with explicit conventions. Together they put an old design problem in a new setting: how does a team preserve judgment when more people and tools can produce interfaces? Neither source establishes an industry-wide hiring trend or proves that designers should abandon visual exploration.",
+    "Editorial thesis: the useful next layer is a small set of decisions that can be tested against real work. A component catalogue tells a team what exists. A decision layer explains why one option belongs in a particular situation, when an exception is legitimate, and what evidence would justify changing the rule. This is a proposed working model, not a new product category or a claim that a particular vendor has solved design governance.",
+    "Consider a hypothetical subscription-management product. Its standard confirmation pattern works for a reversible preference change but may be inadequate for cancelling access for an entire organization. A polished, on-brand screen can still communicate the wrong consequence. Start the design discussion with the customer’s decision: what will happen, who is affected, and whether the action can be undone. Only then decide whether an existing pattern fits. A rule that simply says to reuse the standard modal would conceal the important difference.",
+    "A useful experiment would compare two tasks: creating a new flow and modifying an existing one. Give each the same approved pattern, a short explanation of its purpose, and one deliberately awkward case. Have a designer and engineer review the results independently before discussing them. Record the mismatch, not just whether the output looks consistent. Did the experience omit a consequence, pick the wrong level of confirmation, or introduce a state that the implementation cannot support? These are proposed review questions, not reported test results.",
+    "Do not turn this into an instruction-writing competition. More documentation can introduce contradictions as easily as it removes ambiguity. For the experiment, keep a single owner for each rule, a reason it exists, and a named path for exceptions. When a product team discovers a legitimate new use case, it should be able to challenge the pattern without quietly forking it. The organizational work is agreeing how that challenge gets resolved and how the resolution reaches the next person using the system.",
+    "Craft still matters at the end of this process. Examine hierarchy, wording, motion, error recovery and the relationship between adjacent screens. A component can satisfy its specification while the assembled journey remains confusing. Try the flow at a narrow viewport and with a realistic interruption. Ask whether people understand their choices, rather than using component reuse as a proxy for usability. Automated checks can inform review; they do not establish that a customer understood the experience.",
+    "For senior IC career evidence, the editorial recommendation is to document a before-and-after decision, not a collection of prompts. Show the ambiguous situation, the competing options, the partners involved, and what changed when the proposal met implementation or user feedback. If the exercise is only a prototype, say so. If there is no measured improvement, explain what remains unknown. The strongest account makes your judgment legible while crediting research, engineering and product collaborators for theirs.",
+    "Hiring lens: ask whether a role owns shared quality decisions or is simply expected to clean up generated output. Who funds system maintenance? Can the designer influence adoption and exception handling across teams? What authority comes with responsibility for consistency? These are scope questions, not assumptions that Staff, Principal, Product Designer or Design Engineer titles mean the same thing. Today’s bounded vacancy search did not verify a new or materially changed employer listing with enough readable evidence to recommend. That is a reporting limit, not a claim that hiring has stopped."
+  ],
+  "priorities": [
+    "Choose one consequential workflow and write the decision that a component library alone does not explain.",
+    "Compare a new-flow task with an existing-flow edit; record the failures and required human judgment.",
+    "In role evaluation, ask who owns exceptions, maintenance capacity and cross-team quality decisions."
+  ],
+  "sectionTitle": "Three sources behind the decision-layer argument",
+  "stories": [
+    {
+      "section": "Fresh guidance · October 23",
+      "title": "Figma distinguishes reusable rules from task context.",
+      "summary": "Figma describes connecting published libraries, attaching guidelines, providing examples and packaging repeatable processes as skills. It also states an important limitation: guidelines work best for new designs, with consistency when editing existing work still being improved. This is vendor guidance, not independent evidence of quality gains.",
+      "takeaway": "Editorial application: evaluate creation and editing separately before treating a shared instruction as dependable.",
+      "source": "Figma · published October 23, 2026 · checked October 23",
+      "url": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/"
+    },
+    {
+      "section": "Practice perspective · Updated October 22",
+      "title": "A code-first system still needs a way to discuss design.",
+      "summary": "thoughtbot argues that production code can anchor the implemented system while visual tools remain useful for exploration and communication. Its concern is fragmented components as more people build with AI; it recommends making conventions accessible to people and tools. This is a consultancy’s practice perspective, not a representative labor-market study.",
+      "takeaway": "Editorial application: settle ownership and exception handling before expanding the volume of generated work.",
+      "source": "thoughtbot · published October 20; updated October 22, 2026 · checked October 23",
+      "url": "https://thoughtbot.com/blog/design-systems-in-an-ai-era"
+    },
+    {
+      "section": "Technical background · Undated documentation",
+      "title": "Component discovery is becoming a tool capability.",
+      "summary": "Storybook’s documentation describes an MCP server that gives agents access to component documentation, story generation and tests. Its AI capabilities are marked preview, and available tools depend partly on framework support. The component manifest used by the documentation tools is off by default. No release date was established for this page.",
+      "takeaway": "Editorial application: check what an agent can actually retrieve and test in your stack. A connected tool is not evidence that every relevant component or behavior is covered.",
+      "source": "Storybook official docs · background, publication date unspecified · checked October 23, 2026",
+      "url": "https://storybook.js.org/docs/ai"
+    }
+  ],
+  "coverage": [
+    "Primary pages read October 23, 2026 during morning Pacific preparation. Figma guidance published today; thoughtbot published October 20 and updated October 22. The substance of the thoughtbot update was not independently diffed. Storybook is undated technical background, not presented as a fresh release.",
+    "Original editorial analysis and hypothetical subscription workflow are proposals, not measured findings. No verified material change in hiring or title taxonomy was established. All three story URLs are distinct from recent editions supplied by context.py.",
+    "Vacancy discovery included Tempus and other Staff Product Designer listings. The Tempus employer page at https://tempus.wd5.myworkdayjobs.com/tempus_careers/job/chicago/staff-product-designer_jr202600516 returned no readable job body; search results showed inconsistent recency across sources. No vacancy recommendation, posting-date assertion or compensation estimate is included.",
+    "Figma Lufthansa Systems article could not be retrieved and is not used for substantive claims. Sources are public vendor documentation and practitioner commentary, not independent evaluations of tool effectiveness.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ]
+}
