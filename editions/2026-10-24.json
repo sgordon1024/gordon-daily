@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-24",
+  "published": "8:32 AM Pacific",
+  "label": "SATURDAY EDITION",
+  "note": "Public career intelligence · Interaction craft, prototypes and hiring evidence.",
+  "kicker": "Weekend analysis · Attention is a design constraint",
+  "headline": "A convincing demo is not a calmer product.",
+  "summary": "Fresh prototype examples and a conference session on calm design suggest a useful test: does the experience reduce the work people must supervise, or merely make automation look impressive?",
+  "readTime": "5 minute read",
+  "body": [
+    "October 23 brought a new Figma collection of customer experiments with code layers and a scheduled PUSH UX session about designing for calm. These are useful practice signals, not proof of a market-wide change in design jobs. Today’s lead is editorial analysis: as interactive demonstrations become easier to produce, senior designers can make their contribution clearer by separating persuasive presentation from evidence that a product actually helps people.",
+    "The distinction matters before a team commits to building. A prototype can help colleagues agree on what an interaction means; that agreement does not establish whether customers want it, understand it or can recover when it fails. The practical question is not whether a demo looks real. It is which uncertainty the team can now resolve that it could not resolve with a sketch. Name that uncertainty before choosing the fidelity or the tool.",
+    "Consider an original hypothetical: a support console proposes replies and suggests follow-up actions. One version shows every suggestion immediately in a prominent stream. Another keeps optional suggestions close to the task and makes consequential actions explicit. Neither version is automatically better. The first might help a novice discover useful assistance; the second might protect an experienced operator’s concentration. Treat calmness as something to investigate in context, not as a rule to hide interface controls.",
+    "A focused evaluation could ask people to complete a realistic interrupted task, then explain what has happened and what still needs their attention. Observe whether they notice a changed recommendation, distinguish a draft from a completed action, and resume without rereading the entire screen. These are proposed observations, not results from a study. A visually quiet layout that conceals unfinished work may be less usable than a busier one with clear status and a reliable path back.",
+    "For interaction craft, prototype the transition as carefully as the resting screen. What changes when a suggestion arrives during typing? Does focus move unexpectedly? Can a person dismiss something without losing the information needed later? Include an error and an empty state, not only the successful reveal. The deliverable should make the cost of interruption visible. An animation that delights in a review can still become repetitive or distracting during a full day of use.",
+    "For organizational scope, invite research, engineering and product partners to define the decision threshold together. Before review, write down what would make the team continue, revise or stop. A productive outcome might be abandoning an attractive concept because it creates more checking work than it removes. That is not a failed design exercise. It is evidence that the team used a prototype to make a decision rather than to seek approval for a direction already chosen.",
+    "Keep system-level implications in view. If each team invents its own signals for pending, suggested and completed work, customers must relearn the same distinctions across the product. A senior IC can help establish shared behavior without forcing every workflow into an identical layout. The useful agreement concerns meaning and recovery: when a state changes, what the person must understand, and how they regain control. Validate the agreement in more than one journey before treating it as universal.",
+    "Career application: show a case study in which the prototype changed the decision, not just one in which you built it quickly. Explain the hypothesis, the alternative you tested, the evidence you obtained and the limits of that evidence. Credit collaborators and distinguish an experiment from shipped impact. AI-assisted production can be part of that account without becoming its headline. No evidence reviewed today establishes that a particular design title is disappearing or that faster artifact creation alone warrants a different level.",
+    "The hiring item below is deliberately exploratory. A live employer page is stronger evidence than a fresh timestamp on a job aggregator, but it still does not establish the posting date or whether the role has changed. Evaluate the actual mandate, decision authority and craft expectations. Do not infer senior-staff equivalence from a Staff label, or dismiss a role solely because its title differs. Today’s bounded search did not establish a newly posted or materially changed vacancy with a verified change date."
+  ],
+  "priorities": [
+    "Name the uncertainty a prototype must resolve before increasing its fidelity.",
+    "Test one interrupted task, including status comprehension and recovery—not just the happy path.",
+    "For role evaluation, separate the published mandate from title assumptions and aggregator freshness."
+  ],
+  "sectionTitle": "Two fresh practice signals and one exploratory role",
+  "stories": [
+    {
+      "section": "Practice signal · October 23",
+      "title": "Calm design puts attention ahead of visible AI.",
+      "summary": "PUSH UX’s program lists Granola designer Paavan Buddhdev’s Designing for Calm session for October 23. The abstract discusses restraint in AI interfaces, limited in-product brand expression and testing feel in live builds. This is a program description, not a reviewed recording or evidence that the proposed approach improves outcomes.",
+      "takeaway": "Editorial application: test whether reducing visible assistance also reduces supervision, without hiding important status.",
+      "source": "PUSH UX official program · event October 23, 2026 · checked October 24",
+      "url": "https://push-conference.com/2026/designing-for-calm"
+    },
+    {
+      "section": "New examples · October 23",
+      "title": "Working prototypes make alternatives easier to discuss.",
+      "summary": "Figma’s new customer collection describes code-layer experiments involving interactive motion, side-by-side alternatives and stakeholder reviews. These are vendor-selected customer examples; reported speed gains are not independent benchmarks. The article is fresh, but the underlying open-beta announcement is older.",
+      "takeaway": "Editorial application: use the working interaction to answer a specific question, and keep stakeholder enthusiasm separate from user evidence.",
+      "source": "Figma · published October 23, 2026 · checked October 24",
+      "url": "https://www.figma.com/blog/6-ways-teams-are-experimenting-with-code-layers/"
+    },
+    {
+      "section": "Exploratory role · Posting date unverified",
+      "title": "Medium: Staff Product Designer, remote in the US.",
+      "summary": "The live employer page combines product shaping, hands-on interaction and visual design, research, design-system contribution and AI-assisted exploration. It requests 7+ years and shipped portfolio evidence. The listed salary range is $170,000–$220,000 USD; the page does not explicitly label it base or total compensation. US eligibility and twice-yearly offsites matter.",
+      "takeaway": "Recommendation: moderate, exploratory interest for a craft-led senior IC. Gaps to resolve include leveling, cross-team authority, portfolio fit, location eligibility, travel compatibility and compensation structure. Original posting and material-change dates are not verified; do not treat this as a new opening.",
+      "source": "Medium employer Greenhouse page · live checked October 24, 2026 · undated listing/background",
+      "url": "https://job-boards.greenhouse.io/medium/jobs/4415431009"
+    }
+  ],
+  "coverage": [
+    "Public sources checked October 24, 2026 during morning Pacific preparation. PUSH UX event was scheduled October 23; session delivery and recording were not independently verified. Figma article published October 23. All three story URLs differ from recent editions returned by context.py.",
+    "Medium employer listing was opened and read. Aggregators show conflicting freshness dates and lower compensation ranges; the current employer page takes precedence. No claim is made that the salary changed or that the vacancy is newly posted. The undated listing is an explicit background exception to the seven-day news window.",
+    "The support-console scenario, evaluation proposal and organizational recommendations are original editorial analysis, not reported research results. Vendor examples and conference abstracts do not establish causal productivity or usability improvements.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ]
+}
