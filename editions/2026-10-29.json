@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-29",
+  "published": "9:52 AM Pacific",
+  "label": "THURSDAY EDITION",
+  "note": "Public career intelligence · Systems, accessibility and design leadership.",
+  "kicker": "Practice analysis · Preserve the experience through change",
+  "headline": "A migration is a product decision, not a library swap.",
+  "summary": "This week’s design-system and accessibility programs offer a useful senior-IC question: when teams modernize their tools, who owns the behavior customers must not lose?",
+  "readTime": "5 minute read",
+  "body": [
+    "Today’s bounded source review found no verified material change in design hiring or role titles. Instead of manufacturing a trend, this edition examines a practical leadership problem: preserving usable behavior when a team replaces a design system or adds AI-assisted production. The current programs below establish what practitioners and researchers are discussing. They do not establish the results of talks, prove that an intervention works, or justify claims that a profession is disappearing.",
+    "Editorial analysis: a migration is often presented as a delivery exercise—replace old components, remove exceptions, and finish the rollout. That framing can miss the product decision inside it. People already depend on particular interactions, sometimes in ways the component inventory does not capture. A visually consistent replacement can still make a familiar task harder. The senior-level contribution is to make those dependencies legible before the team treats implementation progress as customer progress.",
+    "Consider an original hypothetical: a business application is replacing its form components across account setup, billing and support. Each screen can pass a visual review while the complete journey changes. Focus may return to the wrong place after an error. A previously saved value may disappear when someone goes back. A clear explanation may become a generic warning. The question is not whether the new library is better in isolation. It is whether the application preserves the behaviors people need to finish their work.",
+    "A useful starting artifact is a small behavior contract for one consequential journey. Describe what happens after invalid input, how entered information is retained, how status is communicated, and how the person recovers. Include keyboard interaction and the meaning conveyed to assistive technology, alongside visual hierarchy and plain-language content. Separate requirements that must survive from conventions that can change. This is a proposed working method, not a claim that a particular standard or conference mandates this exact document.",
+    "Then choose a migration slice that can expose a real disagreement. A simple success screen may prove that the tokens render correctly without testing the difficult behavior. A form with a recoverable failure can reveal who owns validation, content, focus and persistence. Ask design, engineering, research and accessibility partners to inspect the same slice. The valuable output is not unanimous approval; it is a clear decision about which differences are acceptable, which are regressions, and who can resolve the remaining uncertainty.",
+    "AI-assisted generation fits inside that contract rather than replacing it. In this hypothetical workflow, an assistant could draft variants or suggest test cases, but the team would still need to inspect the rendered journey and evaluate it with appropriate methods. A generated component that resembles the approved example is not evidence that its behavior is equivalent. Keep a record of the missing states and the changes needed after review. That makes the cost of getting to a usable result visible, instead of reporting only how quickly the first draft appeared.",
+    "Organizational scope becomes concrete when the contract crosses team boundaries. Name an owner for shared behavior and a route for product-specific exceptions. Decide what happens if the migration deadline arrives before a critical regression is resolved. A rollback, a limited rollout or a postponed replacement may be more responsible than declaring the library complete. These are editorial options, not universal prescriptions. Their value is that they force a trade-off into the open while the team can still change course.",
+    "For career evidence, turn this work into a case study about a decision you helped the organization make. Show the competing constraints, the journey you examined, the evidence that changed the plan, and the limits of your role. Distinguish component adoption from successful task completion; they answer different questions. Credit implementation and research partners. A thoughtful example of preventing a harmful rollout can communicate senior scope more clearly than a large component count or an unsupported claim of AI productivity.",
+    "The same distinction helps evaluate a job description. Ask whether system ownership includes product behavior, adoption and cross-team decisions, or only maintaining assets. Ask how exceptions are resolved and what evidence determines release readiness. These are suggested future interview questions, not outreach performed for this edition. No vacancy is recommended today: the search did not verify a newly posted or materially changed opportunity within the freshness window. That is a limit of this review, not evidence that suitable openings do not exist."
+  ],
+  "priorities": [
+    "Write a behavior contract for one important journey before evaluating its replacement components.",
+    "Review one recoverable failure across design, engineering and accessibility—not only the successful screen.",
+    "In a portfolio or role evaluation, separate migration completion from demonstrated user outcomes."
+  ],
+  "sectionTitle": "Three current signals · Evidence boundaries included",
+  "stories": [
+    {
+      "section": "Systems practice · October 26–29",
+      "title": "Modernization includes continuity, not just new tooling.",
+      "summary": "NL Design System’s official week-long timetable includes sessions on switching systems without compromising accessibility, accessibility culture, design tooling and building less. The October 27–29 program connects technical change with organizational practice. Only the published schedule was reviewed; session delivery, recordings and outcomes were not verified.",
+      "takeaway": "Editorial application: make preserved customer behavior part of the migration’s acceptance criteria, alongside component adoption.",
+      "source": "NL Design System official timetable · events October 26–29, 2026 · checked October 29",
+      "url": "https://www.nldesignsystem.nl/events/design-systems-week-2026/en/timetable/"
+    },
+    {
+      "section": "Research watch · October 26–28",
+      "title": "Generated interfaces deserve their own evaluation.",
+      "summary": "The ASSETS 2026 program lists work on accessibility in LLM-generated HTML forms, accessibility issue resolution and the gap between perceived and actual accessibility in front-end frameworks. These are research leads, not findings reported here: the schedule does not provide enough evidence to summarize methods, effect sizes or conclusions.",
+      "takeaway": "Editorial application: inspect actual interaction behavior before treating a generated or framework-based interface as ready. Read the papers before citing their results.",
+      "source": "ACM SIGACCESS ASSETS official program · conference October 26–28, 2026 · checked October 29",
+      "url": "https://assets26.sigaccess.org/schedule.html"
+    },
+    {
+      "section": "Hiring conversation · October 29",
+      "title": "Listen for changed responsibilities, not predicted replacement.",
+      "summary": "A Friends of Figma Education event at FIT in New York describes a panel about current design practice, hiring expectations and education in an AI context. The page specifies in-person attendance and contains inconsistent time ranges. This is a program signal only; no panel statements or hiring outcomes have been verified, and it is not presented as an attendance recommendation.",
+      "takeaway": "Editorial application: look for concrete examples of changed work and evaluation criteria. A panel agenda is not evidence of a market-wide title shift.",
+      "source": "Friends of Figma Education event page · event October 29, 2026 · checked October 29",
+      "url": "https://friends.figma.com/events/details/figma-education-presents-empowering-design-with-ai/"
+    }
+  ],
+  "coverage": [
+    "Primary source pages opened and read October 29, 2026 during morning Pacific preparation. Event dates are reported separately from publication dates; page publication dates were not established. NL Design System events October 26–29; ASSETS conference October 26–28; FIT panel October 29. No claims that sessions occurred as scheduled or that recordings are available.",
+    "Freshness: current-week programs, including October 28–29 signals, within the seven-day window. All three story URLs differ from the recent editions returned by context.py. No material hiring-market change verified; this is deeper editorial analysis, not breaking news.",
+    "Job search surfaced older and undated listings and closed opportunities; no newly posted or materially changed role was verified within the freshness window, so no job leads are recommended. No salary estimates, leveling assumptions, applications or outreach.",
+    "The migration scenario, behavior contract, evaluation approach and career recommendations are original editorial analysis, not attributed research findings. Source summaries are bounded to the published programs. FIT event time conflict is disclosed without offering a possibly incorrect attendance time.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ]
+}

@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-10-29",
+      "headline": "A migration is a product decision, not a library swap.",
+      "summary": "This week’s design-system and accessibility programs offer a useful senior-IC question: when teams modernize their tools, who owns the behavior customers must not lose?"
+    },
+    {
       "date": "2026-10-24",
       "headline": "A convincing demo is not a calmer product.",
       "summary": "Fresh prototype examples and a conference session on calm design suggest a useful test: does the experience reduce the work people must supervise, or merely make automation look impressive?"
