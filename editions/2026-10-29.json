@@ -56,5 +56,77 @@
     "Job search surfaced older and undated listings and closed opportunities; no newly posted or materially changed role was verified within the freshness window, so no job leads are recommended. No salary estimates, leveling assumptions, applications or outreach.",
     "The migration scenario, behavior contract, evaluation approach and career recommendations are original editorial analysis, not attributed research findings. Source summaries are bounded to the published programs. FIT event time conflict is disclosed without offering a possibly incorrect attendance time.",
     "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
-  ]
+  ],
+  "jobShortlist": {
+    "date": "2026-10-29",
+    "checkedAt": "2026-10-29T17:57:04.551861+00:00",
+    "note": "Updated job desk · Five active employer-hosted listings checked October 29, 2026. Ranked editorial recommendations, not guaranteed eligibility. This supplemental review supersedes the morning article’s no-vacancy conclusion; the original article is preserved below. Listing publication dates were not disclosed, so these are current openings, not claimed newly posted jobs.",
+    "jobs": [
+      {
+        "company": "Cherry",
+        "role": "Staff Product Designer, AI Design Systems",
+        "location": "Remote — United States.",
+        "compensation": "Compensation unknown; no range posted.",
+        "recommendation": "Strong systems + healthcare fit",
+        "reason": "Cross-product design-system ownership and patient-financing workflows align with deep systems, accessibility and complex-service design experience.",
+        "caveat": "Hands-on coding is required; validate production-code depth and staff-level scope. Healthcare financing, not oncology care.",
+        "url": "https://jobs.ashbyhq.com/withcherry/7d4c7b4f-1d5e-4cb4-944d-f39782c06ea4",
+        "applyUrl": "https://jobs.ashbyhq.com/withcherry/7d4c7b4f-1d5e-4cb4-944d-f39782c06ea4/application",
+        "verifiedAt": "2026-10-29T17:57:04.551861+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "AI-powered business workflows and system-wide product direction are a strong match for senior-IC leadership, agent-tool design and conversational-AI experience.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm scope and leveling. Code prototyping is expected.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-10-29T17:57:04.551861+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Complex enterprise workflows, trust-sensitive automation and reusable patterns map well to agent tools, accessibility and cross-team design-systems leadership.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-10-29T17:57:04.551861+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Worth exploring for agentic AI",
+        "reason": "Agent workflows and early-stage product definition suit conversational-AI experience and the ability to simplify complex systems for people.",
+        "caveat": "No formal levels; clarify senior-IC scope and compensation. Rapid experimentation and a live design exercise are part of the process.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-10-29T17:57:04.551861+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "A chance to translate AI capabilities into usable web and mobile workflows, drawing on systems thinking and multidisciplinary product leadership.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-10-29T17:57:04.551861+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
 }
