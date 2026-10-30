@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-30",
+  "published": "8:32 AM Pacific",
+  "label": "FRIDAY EDITION",
+  "note": "Public career intelligence · Craft, AI workflows and hands-on leadership.",
+  "kicker": "The work after the first draft",
+  "headline": "Make review work visible before promising speed.",
+  "summary": "The useful career question is not how many screens AI can produce. It is whether a senior designer can make the decisions, review effort and missing expertise visible.",
+  "readTime": "6 minute read",
+  "body": [
+    "Today’s review found no verified material change in design job titles. It did find a useful contrast: current tooling guidance continues to demand interaction judgment, while last week’s NN/g practitioner survey reports faster tasks alongside concerns about output quality. The five openings above are active, rechecked opportunities—not evidence of a hiring surge or newly created positions. This edition’s deeper analysis is about how to demonstrate senior scope without turning every new tool into a career identity.",
+    "Editorial proposal: keep a review ledger for one small, real product change. Record the initial question, the artifact created, what was inspected, what failed, and the decision that followed. Include time spent by every participating discipline, but do not turn the exercise into employee surveillance. The purpose is to find hidden handoffs and missing expertise, not to rank colleagues by speed. A generated draft and a release-ready experience should never occupy the same column.",
+    "An original hypothetical: a team prototypes an appointment-rescheduling flow. The happy path looks polished. During review, someone notices that a changed appointment could be mistaken for a confirmed one, another person finds a keyboard trap, and a clinician asks what happens when the requested slot is no longer available. Those observations are different kinds of work. Counting the prototype as completed before resolving them hides the decisions that determine whether the experience is useful.",
+    "For that example, the ledger could have four entries: confirmation language, interaction recovery, availability uncertainty and ownership of exceptions. Name the person or discipline able to resolve each question; record the evidence needed, not just a deadline. Some questions can be answered with implementation inspection. Others need user research or domain expertise. Mark unresolved items honestly. A faster prototype should create more room to investigate consequential uncertainty, not make uncertainty disappear from the status report.",
+    "This is also a design-systems problem. A reusable pattern should explain when it applies and which assumptions it makes. If a confirmation component presumes an immediately completed transaction, that assumption matters when a service only accepts a request for later review. The senior contribution is identifying that semantic difference and aligning the teams around it. A component count cannot tell that story; a before-and-after decision record can.",
+    "For a portfolio, show one pivotal correction instead of a gallery of generated variants. Explain what you initially believed, which evidence challenged it, and how the product changed. Credit research, engineering and domain partners. If you measured a benefit, state the baseline and measurement window; if you did not, describe the decision and leave the outcome unquantified. This is editorial advice, not a claim that every employer uses the same evaluation criteria.",
+    "The job desk makes those distinctions concrete. Owner asks for code-prototyping evidence; Talkiatry explicitly combines hands-on design leadership with patient-facing AI and foundational flows; EasyLlama names platform outcomes. Those are different work agreements despite similar senior titles. In a future interview, ask which decisions the role owns, who supplies specialist review, and what counts as a successful first release. Do not confuse broad influence with staffing responsibility, or an AI label with a guaranteed level."
+  ],
+  "priorities": [
+    "Track one change from initial draft through review and correction—not generation time alone.",
+    "Choose a portfolio example where evidence changed a consequential design decision.",
+    "Evaluate openings by hands-on ownership, review support and level; confirm missing pay or location details."
+  ],
+  "sectionTitle": "Three signals · Sources and limits",
+  "stories": [
+    {
+      "section": "Interaction craft · Current guidance",
+      "title": "A new input method adds decisions, not just targets.",
+      "summary": "Apple’s developer page on touch for Mac covers gestures, control sizing, hover adaptation and expanding controls while retaining pointer and keyboard usability. The page was discovered in an October 29 industry roundup; its own publication date is not shown. The reviewed page is a session outline, not a completed usability evaluation.",
+      "takeaway": "Editorial application: include alternate ways to discover and operate controls in a component review.",
+      "source": "Apple Developer · publication date undisclosed · checked October 30, 2026",
+      "url": "https://developer.apple.com/videos/play/tech-talks/111456/"
+    },
+    {
+      "section": "AI at work · October 23 research",
+      "title": "Reported speed is not the same as measured delivery.",
+      "summary": "NN/g surveyed 521 working UX practitioners in a convenience sample collected August 24–September 11. Respondents reported time savings, but 54% cited output quality as an adoption barrier. These are self-reports, not a controlled productivity benchmark or a representative labor-market forecast.",
+      "takeaway": "Editorial application: establish your own baseline and include review effort when assessing a workflow.",
+      "source": "Nielsen Norman Group · published October 23, 2026 · checked October 30",
+      "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/"
+    },
+    {
+      "section": "Scope and hiring · October 23 reference",
+      "title": "Define the discipline before comparing the title.",
+      "summary": "NN/g’s updated glossary distinguishes interaction design, product design, service design and other UX disciplines, while noting that job titles are not standardized. This is a vocabulary reference, not evidence that employers have changed their leveling systems.",
+      "takeaway": "Editorial application: map a listing to actual decisions, deliverables and partners before inferring seniority.",
+      "source": "Nielsen Norman Group · published October 23, 2026 · checked October 30",
+      "url": "https://www.nngroup.com/articles/ux-disciplines-glossary/"
+    }
+  ],
+  "coverage": [
+    "Checked October 30, 2026. Apple guidance publication date undisclosed; discovery source: https://www.inthepocket.design/articles/design-thursday-126 (October 29). No device specifications or rollout promises inferred from the session outline.",
+    "NN/g articles published October 23, at the seven-day freshness boundary; survey fieldwork August 24–September 11. No material title or hiring-market change verified in this bounded review. This is practice analysis, not breaking news.",
+    "Five official employer descriptions and rendered application forms opened October 30; individual UTC timestamps and URLs appear in the job desk. No submission or employer contact. Posting dates undisclosed; discovery is not publication.",
+    "Recommendations and the review-ledger scenario are editorial analysis. Job scope and qualifications were reviewed in full. Prior dated editions remain unchanged; today’s note supersedes the earlier Cherry recommendation.",
+    "Public career intelligence only; no personal commitments, candidate profile, private compensation criteria or confidential project details included.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-10-30",
+    "checkedAt": "2026-10-30T15:32:56.942992+00:00",
+    "note": "October 30 refresh · Five active official listings and application forms rechecked. Current openings, not claimed newly posted. Cherry is held out because its scope requires clarification, superseding yesterday’s recommendation; the dated archive is unchanged. Recommendations are editorial, not eligibility guarantees.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm scope and leveling. Code prototyping is expected.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-10-30T15:30:41.884077+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-10-30T15:31:18.959572+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-10-30T15:30:45.618261+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-10-30T15:30:49.301102+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-10-30T15:30:53.830954+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}

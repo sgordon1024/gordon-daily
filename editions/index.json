@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-10-30",
+      "headline": "Make review work visible before promising speed.",
+      "summary": "The useful career question is not how many screens AI can produce. It is whether a senior designer can make the decisions, review effort and missing expertise visible."
+    },
+    {
       "date": "2026-10-29",
       "headline": "A migration is a product decision, not a library swap.",
       "summary": "This week’s design-system and accessibility programs offer a useful senior-IC question: when teams modernize their tools, who owns the behavior customers must not lose?"
