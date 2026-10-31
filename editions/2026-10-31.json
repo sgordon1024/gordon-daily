@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-31",
+  "published": "8:32 AM Pacific",
+  "label": "SATURDAY EDITION",
+  "note": "Public career intelligence · Reusable workflows, interaction quality and senior IC scope.",
+  "kicker": "From personal technique to shared capability",
+  "headline": "A reusable workflow is a product you have to maintain.",
+  "summary": "AI tools are making creative processes easier to package. The senior design opportunity is to define where those processes work, how they fail and who keeps them useful.",
+  "readTime": "6 minute read",
+  "body": [
+    "Today’s fresh signal is Figma’s October 31 guide to reusable creative workflows, alongside its October 29 account of specialized design-editing models. Neither establishes a new industry-wide job title or a hiring boom. Together with this week’s independent design-system performance research, they suggest a useful career question: can you turn a technique that works for you into a capability that other people can rely on? The five openings above remain active; none is presented as newly posted.",
+    "Editorial analysis: packaging a workflow changes the design problem. A personal technique can depend on its creator noticing when something looks wrong. A shared tool needs to communicate its assumptions to someone who was not there when it was built. The interesting staff-level work is deciding what the tool promises, which choices remain with the user, and what happens when the input falls outside the expected range. A polished output alone does not answer those questions.",
+    "Consider an original hypothetical: a team creates a tool that turns approved product information into a set of campaign layouts. A demonstration using one short product name works beautifully. The next user supplies a long translated name, an image with a different crop and a missing disclosure. Before calling the tool reusable, the team needs a way to detect unsupported inputs, preserve required information and let the user recover without rebuilding the whole workflow. The design problem includes the explanation and the escape route, not just the generated layout.",
+    "A practical portfolio artifact is a small operating agreement for that tool. State its intended user, accepted inputs, protected content, editable choices and known limits. Show one successful result and one rejected or repaired result. Explain how someone can recognize the difference. Keep the example narrow enough to test with a teammate who did not help build it. This is a proposed exercise, not a claim about any employer’s interview rubric.",
+    "The organizational question is maintenance. Who can change a shared workflow? Who checks that an update preserves earlier promises? Who receives reports when it stops being useful? These are product-ownership decisions that a senior IC can help resolve through research, interaction design and cross-functional agreement. They do not inherently require direct reports. For a design-system team, the same conversation should include accessibility and behavior under realistic load, rather than treating visual consistency as the whole quality contract.",
+    "The hiring lesson is to show both judgment and execution. Owner’s application asks about shipped independent work and code in the design process. Talkiatry asks for patient-facing craft and systems thinking; EasyLlama emphasizes platform outcomes. A single generic AI portfolio will not establish all three. Choose evidence that matches the role’s actual responsibilities, identify what remains unproven, and confirm scope rather than inferring it from Staff in the title. No broad title transition was established by this bounded review."
+  ],
+  "priorities": [
+    "Package one small workflow with explicit inputs, limits and a recovery path.",
+    "Add a realistic stress case to a shared component review, including keyboard and assistive-technology behavior.",
+    "Match portfolio evidence to each opening’s scope; keep unverified pay, geography and leveling questions visible."
+  ],
+  "sectionTitle": "Three signals · Evidence and interpretation",
+  "stories": [
+    {
+      "section": "Creative workflows · October 31",
+      "title": "Reusable does not mean finished.",
+      "summary": "Figma’s new Weave guide describes connected generation and editing steps, branching alternatives and packaging workflows into tools. It recommends testing beyond the original inputs and having another person try the tool without coaching. This is vendor guidance, not independent evidence of productivity gains.",
+      "takeaway": "Editorial implication: design the experience of reuse, including its limits—not just the original output.",
+      "source": "Figma · published October 31, 2026 · checked October 31",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/"
+    },
+    {
+      "section": "AI evaluation · October 29",
+      "title": "Quality needs more than one score.",
+      "summary": "Figma describes combining structural checks, visual judges and expert-designer review to evaluate editing models. It separates instruction following and component correctness from appearance, and considers speed and cost. Its reported improvements are internal vendor results, not a benchmark of design-team productivity.",
+      "takeaway": "Editorial implication: demonstrate how you distinguish a plausible-looking edit from one that satisfies the actual task.",
+      "source": "Figma engineering · published October 29, 2026 · checked October 31",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/"
+    },
+    {
+      "section": "Design systems · This week, October 27",
+      "title": "A shared component can distribute friction too.",
+      "summary": "Den Odell tested demanding dropdown and checkbox interactions across ten design systems, publishing methods and a test repository. The article argues for interaction-performance budgets alongside accessibility. Two workloads on one test setup are useful diagnostics, not a universal ranking of libraries.",
+      "takeaway": "Editorial implication: define realistic usage limits with engineering, then check that optimizations preserve accessible interaction.",
+      "source": "Den Odell · published October 27, 2026 · checked October 31",
+      "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default"
+    }
+  ],
+  "coverage": [
+    "Primary pages reviewed October 31, 2026. Figma articles dated October 31 and October 29; Odell article dated October 27 (four-day-old context). Source URLs are attached to each story.",
+    "Five official employer descriptions and rendered application forms rechecked October 31. Exact UTC verification times and listing/application URLs appear in the job desk. Full responsibilities and qualifications support hands-on IC scope; this is not an employer guarantee. No forms submitted or employers contacted.",
+    "Job posting dates were not disclosed in reviewed listings. Retained roles are current opportunities, not evidence of fresh hiring or a market-wide trend. Undisclosed pay remains conditional.",
+    "Lead analysis, operating-agreement exercise and campaign-layout scenario are original editorial interpretation, not reported outcomes. No material industry-wide title change verified in this bounded review.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-10-31",
+    "checkedAt": "2026-10-31T15:32:02.816032+00:00",
+    "note": "October 31 refresh · Five official descriptions and usable application forms rechecked. Retained active openings, not newly posted jobs. Recommendations are editorial; location, leveling and compensation caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm scope and leveling. Code prototyping is expected.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-10-31T15:30:41.809744+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-10-31T15:30:41.561148+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-10-31T15:30:42.245924+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-10-31T15:30:41.663515+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-10-31T15:30:45.565825+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
