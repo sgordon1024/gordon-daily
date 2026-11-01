@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-01",
+  "published": "8:32 AM Pacific",
+  "label": "SUNDAY EDITION",
+  "note": "Public career intelligence · Craft, accessible systems and evidence of senior IC impact.",
+  "kicker": "The Sunday practice desk",
+  "headline": "Show the detail—and the decision it changed.",
+  "summary": "A polished screen and a platform-wide result prove different things. A stronger senior design case study connects them without pretending one caused everything.",
+  "readTime": "6 minute read",
+  "body": [
+    "Today’s bounded review found no material new industry-wide title change or hiring shift to report. Instead, this Sunday edition examines a useful tension in this week’s sources: design quality is visible in small interactions, while senior influence often operates across products and teams. The five openings above were rechecked today and remain active; their original posting dates are not disclosed. They are opportunities, not evidence of a new hiring surge.",
+    "A study indexed by PubMed on October 28 describes a shared design system deployed across 80 products at an Irish utility. Its abstract reports delivery and accessibility improvements while retaining product-level accountability. Separately, Figma’s October 29 conference recap illustrates how minute visual changes can improve recognition. These are different kinds of evidence: an organizational case study and practitioner accounts. Neither establishes a universal formula for design productivity.",
+    "Editorial analysis: the useful portfolio move is to connect a small design decision to the mechanism that lets it travel. Show an interaction you improved, the evidence behind that improvement, and how another team could use it correctly. The point is not to make every component sound strategic. It is to explain when a local decision became a shared pattern—and when it should remain local because its assumptions do not generalize.",
+    "Consider an original hypothetical: a scheduling interface uses the same visual treatment for a confirmed appointment and a request awaiting approval. A redesigned status label may be a good local fix. A stronger case study also explains the state model, accessible announcement, cancellation behavior and handoff between teams. Then show which parts became a reusable pattern and which depend on the service’s actual rules. Do not invent validation: if a keyboard or screen-reader check has not happened, list it as unfinished work.",
+    "The second layer is adoption evidence. Did another team understand the pattern without the original designer explaining it? Did its implementation preserve the intended behavior? What exceptions appeared? These questions reveal whether the system carries useful judgment or merely distributes matching visuals. For a senior IC, resolving those questions can involve prototyping, documentation, critique and cross-functional agreement. None inherently requires managing people.",
+    "The third layer is attribution. A faster release after a system change may also reflect a smaller scope, more experienced engineers or fewer dependencies. Separate the observed result from the proposed explanation. State what was measured, over which period, and what changed alongside the design. A concise account of uncertainty is more credible than attaching an organization-wide percentage to one screen. This is an editorial recommendation, not a prescribed interview rubric.",
+    "The hiring implication is specific: build a case study that can be read at two scales. Start with one concrete interaction and its rationale; then zoom out to reuse, collaboration and outcomes. Today’s shortlist includes both cross-product systems work and visually demanding creative tools, so the balance will vary by role. Preserve the actual job title, assess the responsibilities, and keep missing evidence visible rather than claiming every Staff opening asks for the same designer."
+  ],
+  "priorities": [
+    "Pair one detailed interaction example with its reusable rule, exception and validation status.",
+    "Annotate one portfolio outcome with measurement period, attribution limits and what else changed.",
+    "Choose role-specific proof: systems adoption, patient-facing research or creative-tool craft—not a generic AI slide."
+  ],
+  "sectionTitle": "Three signals · This week’s evidence, not breaking news",
+  "stories": [
+    {
+      "section": "Systems & accessibility · October 28",
+      "title": "Shared infrastructure still needs local accountability.",
+      "summary": "ESB researchers describe a governed design system spanning 80 products, with reusable assets encoding accessibility standards. The abstract reports shorter delivery and improved accessibility using several evidence sources. This is one organizational case, not a controlled benchmark; the full paper was not reviewed.",
+      "takeaway": "Editorial implication: show how a pattern is adopted and tested in real products, not just how many components exist.",
+      "source": "Connaughton et al. · PubMed record dated October 28, 2026 · checked November 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960760/"
+    },
+    {
+      "section": "Design craft · October 29",
+      "title": "Precision remains part of the job.",
+      "summary": "Figma’s Config India recap includes a designer refining a small icon after people misread its shape, alongside accounts of creative experimentation and intentional making. These are practitioner examples curated by a vendor, not measurements of AI-driven productivity.",
+      "takeaway": "Editorial implication: include the rejected option and explain the perceptual problem your final design resolves.",
+      "source": "Figma · published October 29, 2026; recaps an earlier October event · checked November 1",
+      "url": "https://www.figma.com/blog/making-something-human-4-things-we-took-away-from-config-india/"
+    },
+    {
+      "section": "Professional practice · October 29 event",
+      "title": "A debate about value is not evidence of disappearing roles.",
+      "summary": "DesignMeets’ October 29 event page frames a cross-disciplinary discussion about AI, design practice and education. The reviewed source is the organizer’s agenda, not a transcript or findings report. It establishes the questions being convened, not agreement on their answers.",
+      "takeaway": "Editorial implication: treat broad claims about the profession as hypotheses; use actual responsibilities and shipped work to guide career decisions.",
+      "source": "DesignMeets · event dated October 29, 2026; page publication date undisclosed · checked November 1",
+      "url": "https://www.designmeets.ca/events/the-redesigned-practice"
+    }
+  ],
+  "coverage": [
+    "Primary pages checked November 1, 2026. Sources are three to four days old and labeled as this-week context. No material new industry-wide title change or hiring shift established in this bounded search; this is not a comprehensive labor-market survey.",
+    "PubMed lists October 28, 2026 for DOI 10.3233/SHTI261024. Secondary discovery pages used a different date; the primary bibliographic date is used here. Only the author abstract was reviewed, not the full paper. No causal or universal performance claim is made.",
+    "Figma’s recap is vendor-curated practitioner commentary. DesignMeets is an event agenda, not evidence of what speakers concluded. The lead’s portfolio framework and scheduling example are original editorial analysis and a hypothetical, respectively.",
+    "Five full official employer descriptions and rendered application forms checked November 1. Exact UTC timestamps and official listing/application URLs appear in the job desk. All five support hands-on IC scope through their listed duties; no application was submitted and no employer contacted.",
+    "Retained openings are not represented as new postings. Unknown pay, geographic limits and leveling uncertainty remain explicit. Public career intelligence only; prior editions preserved.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-01",
+    "checkedAt": "2026-11-01T16:32:30.023872+00:00",
+    "note": "November 1 refresh · Five official descriptions and usable application forms rechecked. Retained active openings, not newly posted jobs. Hands-on scope is supported by listed responsibilities, not an employer guarantee; pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm scope and leveling. Code prototyping is expected.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-01T16:30:35.417989+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-01T16:30:36.144959+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-01T16:30:36.012394+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-01T16:30:36.062471+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-01T16:30:36.095955+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
