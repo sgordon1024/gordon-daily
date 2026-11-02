@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-02",
+  "published": "8:33 AM Pacific",
+  "label": "MONDAY EDITION",
+  "note": "Public career intelligence · Product judgment, accessible systems and senior IC scope.",
+  "kicker": "The decision-making desk",
+  "headline": "Own the decision, not just the generated screen.",
+  "summary": "New commentary broadens the design conversation beyond UI production. The practical career question is which decisions a designer can shape—and what evidence shows those decisions helped people.",
+  "readTime": "6 minute read",
+  "body": [
+    "Today’s bounded search found no material new industry-wide hiring shift within the past 48 hours. The useful developments are from late last week: two October 30 NN/g articles examine design’s scope in agent-mediated products and automated software production. They are professional analysis, not labor-market measurements. Five retained openings were independently rechecked today; their availability does not establish a hiring surge, and their posting dates remain undisclosed.",
+    "NN/g argues that UX should participate in deciding what enters an agentic development pipeline and evaluating what comes out, rather than being reduced to reference material for generation. A separate article argues for experience design as a broader frame when agents act for people. These are proposals about practice. Neither establishes that employers everywhere are changing titles or that traditional interaction design is obsolete.",
+    "Editorial analysis: a useful senior-IC portfolio should make decision rights visible. For one project, explain what you could decide, what required agreement, and what evidence changed the direction. A beautiful prototype demonstrates craft; an account of why the team rejected a plausible option demonstrates judgment. The strongest story connects the two without claiming authority you did not have.",
+    "Consider an original hypothetical: a business tool drafts a customer message, queues it for review and then sends it. A designer could make the review screen cleaner, but the deeper product questions concern when the draft becomes a commitment. Who can edit it? What happens if another person changes the customer record? Does approval apply to this exact version, or to whatever the system later generates? These questions are design work even when their answers require engineering and operations partners.",
+    "Turn that example into a small, reviewable artifact: a state diagram, one realistic screen per transition and a short list of unresolved assumptions. Show the same flow when there is no network, an expired session or an empty result. Label proposed behavior separately from tested behavior. A staff-level contribution can be identifying a cross-product inconsistency and helping teams resolve it, without owning a team of direct reports.",
+    "Craft still matters inside that larger frame. A disabled control, a status label or a cramped text block can prevent someone from understanding what is happening. The October 27 CSS and accessibility working-group discussion is a reminder that visual layout and platform behavior interact in complicated ways. It is not a new compliance rule or a promise that proposed features are ready to ship. Keep implementation evidence alongside design intent.",
+    "For the week ahead, choose one case study and add a compact decision record: the user problem, alternatives considered, your contribution, collaborators, observed outcome and remaining uncertainty. Include a detail that can be inspected rather than an abstract claim about strategic influence. If the work was only a prototype, say so. If the measurement was shared across several initiatives, do not attribute it all to design.",
+    "The hiring translation is deliberately narrow. Today’s job desk contains product direction, systems, research and hands-on craft under several senior titles. Compare those responsibilities with the evidence you can actually show. Treat pay, geography, internal leveling and missing domain experience as separate questions. A broader vocabulary for the profession is useful; it is not a reason to rename a résumé before understanding the work."
+  ],
+  "priorities": [
+    "Add decision ownership and one rejected alternative to a portfolio case study.",
+    "Prototype a failure or handoff state with the same care as the happy path.",
+    "Match each shortlisted role to concrete craft, systems and research evidence; keep missing fit evidence explicit."
+  ],
+  "sectionTitle": "Three signals · Late-week context, checked today",
+  "stories": [
+    {
+      "section": "Organizational scope · October 30",
+      "title": "UX needs a place in the production decisions.",
+      "summary": "Tanner Kohler examines agentic software factories and recommends UX participation in problem selection, evaluation and reusable context. This is a practice argument, not a measured account of widespread organizational adoption.",
+      "takeaway": "Editorial implication: show where your judgment changed what was built, not just how quickly screens were produced.",
+      "source": "Nielsen Norman Group · published October 30, 2026 · checked November 2",
+      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/"
+    },
+    {
+      "section": "Roles & methods · October 30",
+      "title": "A broader name is not a universal title change.",
+      "summary": "Raluca Budiu argues that experience design includes agents acting on people’s behalf while preserving human goals. She references NN/g’s own earlier title change; the article does not date that change to this week or demonstrate industry-wide renaming.",
+      "takeaway": "Editorial implication: assess the actual responsibilities and research methods behind a title. Keep human outcomes as the measure of success.",
+      "source": "Nielsen Norman Group · published October 30, 2026 · checked November 2",
+      "url": "https://www.nngroup.com/articles/ux-vs-experience-design/"
+    },
+    {
+      "section": "Systems & accessibility · October 27 meeting",
+      "title": "Text fitting is still a design problem, not a solved shortcut.",
+      "summary": "Draft CSS + APA minutes discuss text sizing, zoom interactions and unresolved accessibility needs in text-fit proposals. The record also considers developer visibility into platform behavior. Discussion is not a finalized standard or a browser-support guarantee.",
+      "takeaway": "Editorial implication: document behavior at larger text sizes and across layouts; do not mistake a visually tidy default for a robust component.",
+      "source": "W3C · draft meeting minutes dated October 27, 2026 · checked November 2",
+      "url": "https://www.w3.org/2026/10/27-apa-minutes.html"
+    }
+  ],
+  "coverage": [
+    "Primary sources checked November 2, 2026. NN/g articles are three days old; W3C meeting is six days old. No material new industry-wide hiring shift established in the bounded 48-hour search. This is not a comprehensive labor-market survey.",
+    "NN/g articles are professional interpretation, not hiring statistics. W3C minutes are explicitly draft and describe proposals and open issues, not finalized requirements. Source summaries are brief; the decision-record framework and customer-message example are original editorial analysis and a hypothetical.",
+    "All five official employer descriptions and rendered application forms were rechecked November 2; exact UTC timestamps and source/application links appear in the job desk. Full responsibilities and qualifications support hands-on IC scope; no required people-management duties were found. No application was submitted and no employer contacted.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-02",
+    "checkedAt": "2026-11-02T16:33:08.855958+00:00",
+    "note": "November 2 refresh · Five official descriptions and usable application forms rechecked. Retained active openings, not newly posted jobs. Hands-on scope is supported by listed responsibilities, not an employer guarantee; pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm scope and leveling. Code prototyping is expected.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-02T16:30:49.527496+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-02T16:30:49.532667+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-02T16:30:50.003900+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-02T16:30:49.519076+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-02T16:30:49.029505+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
