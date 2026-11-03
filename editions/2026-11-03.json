@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-03",
+  "published": "8:32 AM Pacific",
+  "label": "TUESDAY EDITION",
+  "note": "Public career intelligence · Craft, systems and the work between prototype and production.",
+  "kicker": "The implementation desk",
+  "headline": "Make the last mile part of your design story.",
+  "summary": "Fresh accounts show designers moving closer to code, while implementation remains a separate challenge. The useful career signal is not a new title: it is evidence that your work survives the journey to a usable product.",
+  "readTime": "6 minute read",
+  "body": [
+    "Today’s bounded search found no material new industry-wide hiring shift. Instead, three recent accounts offer a practical look at craft and collaboration: a designer describes contributing code, a design-system team reports unresolved handoff problems, and Figma details a playful product collaboration. These are accounts of particular teams, not proof that every designer must become an engineer. The five openings above remain active; none is being presented as newly posted.",
+    "In Xinran Ma’s interview, Eve designer Ayon describes a lightweight design sandbox and small production changes that improve visual fidelity. Into Design Systems reports a different boundary at Zalando: its prototyping environment accelerated exploration, but generated motion specifications did not automatically help engineering. That October 31 article covers an October 22 talk, so the underlying event is older background. Together, the accounts suggest a question worth asking—not a universal productivity result: where does the work go after the demo?",
+    "Editorial analysis: make one portfolio case study follow a design detail all the way to implementation. Start with the intended behavior, then show what actually reached users. Describe the mismatch, who helped resolve it and what evidence you checked afterward. If you only built a prototype, label that boundary. A convincing staff-level story can be about making an existing product more coherent rather than introducing a spectacular new concept.",
+    "For an original hypothetical, take a results list whose filters update asynchronously. The attractive state is easy to show. The important details arrive when a person changes filters twice, the first response comes back late, focus moves unexpectedly or the result count changes without explanation. A useful artifact pairs the visual design with a short behavior table: pending, complete, empty, failed and superseded. These are proposed review cases, not findings from the cited companies.",
+    "Use the same review to connect systems work to craft. Decide which behavior belongs in a shared component and which belongs to the feature. Specify keyboard and larger-text behavior, then check the implementation rather than assuming the component name guarantees accessibility. Record what was tested and what remains unknown. The goal is a smaller gap between intent and experience, not a longer specification that nobody can navigate.",
+    "Figma’s November 2 Sanrio account provides a lighter counterpoint: reused technical foundations still left room for deliberate character-specific visual details. The article says its agent handled smaller bulk edits. It does not demonstrate an employment trend or a measured productivity gain. Editorial implication: automation and distinctive craft can coexist; the portfolio should show the choices that made the output appropriate, not merely the tool that produced it.",
+    "The hiring translation is concrete. Owner’s current application asks about code use, independently shipped work and experience designing an AI-driven product. Those are three different kinds of evidence. A polished AI-generated demo does not automatically answer all three. Elsewhere in the shortlist, clinical research, multi-product systems and creative-tool knowledge remain meaningful gaps to assess. Titles alone do not establish comparable level or scope.",
+    "Choose a small, inspectable example: before-and-after screens, an interaction recording and a concise explanation of the implementation decision. Credit collaborators and separate your contribution from the team’s result. If you have no measured outcome, say what you observed and what you would evaluate next. That is a stronger career argument than claiming that code output, by itself, proves strategic influence."
+  ],
+  "priorities": [
+    "Trace one portfolio detail from intended behavior to shipped experience; label anything still a prototype.",
+    "Add a compact interaction-state review, including keyboard behavior and interrupted or stale results.",
+    "Inventory code, shipped-work and AI-product examples separately before prioritizing applications."
+  ],
+  "sectionTitle": "Three signals · Craft, systems and changing practice",
+  "stories": [
+    {
+      "section": "Practice & scope · November 1",
+      "title": "Code contribution is a workflow, not a universal new title.",
+      "summary": "In a firsthand interview with Xinran Ma, Eve’s Ayon describes code-based prototyping and bounded production polish. It is a practitioner account with course promotion, not an independent study of design-team outcomes.",
+      "takeaway": "Editorial implication: show what a code contribution improved, and distinguish sandbox work from shipped changes.",
+      "source": "Bootcamp / Xinran Ma · November 1, 2026 (indexed date; page shows relative age) · checked November 3",
+      "url": "https://medium.com/design-bootcamp/from-mockups-to-merged-prs-an-ai-native-designers-playbook-72a506cd67c7"
+    },
+    {
+      "section": "Design systems · October 31 report",
+      "title": "A faster prototype can still leave a difficult handoff.",
+      "summary": "The meetup organizer’s report describes Zalando’s ZDS Capsule, setup support for designers and unresolved engineering handoff questions. Its account of implementation friction is team testimony, not a controlled comparison. The talk occurred October 22.",
+      "takeaway": "Editorial implication: evaluate the recipient’s work as well as prototype speed before calling a workflow more efficient.",
+      "source": "Into Design Systems / Sil Bormüller · published October 31, 2026 · October 22 event background · checked November 3",
+      "url": "https://www.intodesignsystems.com/blog/zalando-design-system-ai-prototyping-tool"
+    },
+    {
+      "section": "Craft & collaboration · November 2",
+      "title": "Reusable foundations still need specific creative choices.",
+      "summary": "Figma describes adapting earlier FigPals frameworks for a limited Sanrio collaboration, with distinct character palettes, cursors and interaction details. The company reports using its agent for smaller bulk edits.",
+      "takeaway": "Editorial implication: reusable systems can support expressive craft; neither reuse nor automation removes the need for intentional detail.",
+      "source": "Figma · published November 2, 2026 · experience began November 1 · checked November 3",
+      "url": "https://www.figma.com/blog/hello-kitty-and-friends-in-figma/"
+    }
+  ],
+  "coverage": [
+    "Sources checked November 3, 2026. Figma’s article is within 48 hours; the interview is indexed November 1 and renders a relative age. The October 31 systems report is within seven days but covers an October 22 event, explicitly labeled older background.",
+    "No industry-wide hiring or title shift established by this bounded search. Interview and meetup claims are attributed practitioner reports; Figma is a first-party product account. Analysis and the asynchronous-results example are original editorial interpretation, not measured findings.",
+    "All five official job descriptions, full responsibilities and qualifications, and rendered application forms rechecked November 3. Exact UTC verification timestamps appear in the job desk. Hands-on IC scope is supported by listed responsibilities; no required people-management duties found. No application submitted or employer contacted.",
+    "Active retained openings are not claimed as newly posted or materially changed. Posting dates are undisclosed. Employer pay ranges, base-versus-total uncertainty, geography and missing fit evidence remain explicit. Only public career material is included; prior editions preserved.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-03",
+    "checkedAt": "2026-11-03T16:32:41.167729+00:00",
+    "note": "November 3 refresh · Five retained official openings and usable application forms rechecked today, not five newly posted jobs. Listed responsibilities support hands-on IC scope; this is not an employer guarantee. Pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-03T16:30:34.758871+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-03T16:30:34.141133+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-03T16:30:33.968735+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-03T16:30:33.987471+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-03T16:30:34.273316+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}

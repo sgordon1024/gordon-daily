@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-11-03",
+      "headline": "Make the last mile part of your design story.",
+      "summary": "Fresh accounts show designers moving closer to code, while implementation remains a separate challenge. The useful career signal is not a new title: it is evidence that your work survives the journey to a usable product."
+    },
+    {
       "date": "2026-11-02",
       "headline": "Own the decision, not just the generated screen.",
       "summary": "New commentary broadens the design conversation beyond UI production. The practical career question is which decisions a designer can shape—and what evidence shows those decisions helped people."
