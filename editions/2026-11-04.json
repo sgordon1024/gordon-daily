@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-04",
+  "published": "8:32 AM Pacific",
+  "label": "WEDNESDAY EDITION",
+  "note": "Public career intelligence · A quiet-news analysis of scope, evidence and craft.",
+  "kicker": "The evidence desk",
+  "headline": "A new responsibility is not yet a new profession.",
+  "summary": "Conference agendas are filling with AI-era operating models. Treat them as questions to investigate, not proof that design titles have changed. The stronger career move is to make your decision-making scope visible.",
+  "readTime": "6 minute read",
+  "body": [
+    "Today’s bounded search found no material new industry-wide hiring or title change. Instead of recycling product launches, this edition offers a deeper analysis: how to evaluate claims about changing design responsibilities. The five openings above were rechecked today and remain actionable leads, not evidence of a hiring surge. Upcoming event descriptions are previews, not reported results.",
+    "UXDX’s November 5–6 San Francisco agenda puts role boundaries, customer control and operating models on the program. Its Sephora session advertises an “Intent Steward” model. That is a named approach in a scheduled talk, not evidence of a new broadly adopted job title. The November 17–18 AI Product Design Summit similarly schedules discussions about blurred roles and systems that agents can use. Neither agenda tells us whether a practice improved outcomes.",
+    "Editorial analysis: separate three questions whenever a new label appears. What work changes? Who has authority to make the consequential decisions? What evidence would show the new arrangement is better? A designer who writes a prototype, sets a product constraint and coordinates a release may cross functional boundaries without becoming a people manager or acquiring a new profession. Tools, accountability and titles are different variables.",
+    "Try an original hypothetical: an enterprise assistant proposes a change to a recurring workflow. The screen looks straightforward, but the product decisions are not. Which users can authorize the change? Does it affect one task or every future task? What happens to work already underway? Can a person preview the consequences, reverse the change and understand what remains unresolved? These questions create design scope even before anyone chooses a component.",
+    "Make that scope inspectable in a portfolio. Show the original uncertainty, two plausible alternatives, the decision rule and the evidence used to choose. Identify the partners who owned policy and technical constraints. Then distinguish what you personally designed from what the team approved or implemented. If the work is speculative, label it as an exercise; do not borrow the authority of an imagined production outcome.",
+    "For systems work, the useful artifact might be a reusable review pattern rather than another visual variant. Describe the information a confirmation needs, the situations where an undo is meaningful and the accessible status feedback after an action. Test the behavior in context. A shared pattern that hides important differences can be less useful than a small set of well-explained exceptions. This is an editorial proposal, not a claim about the conference speakers’ methods.",
+    "Craft still needs a point of view. In Figma’s October 28 interview, Brent David Freaney describes keeping and reconsidering a reference library and choosing color from physical objects. That is one designer’s practice, not a universal prescription. A practical translation for product work is to explain why a reference is appropriate, which property you adapted and what you deliberately left behind. Generated alternatives do not supply that rationale automatically.",
+    "For hiring, read scope before treating titles as comparable. The current shortlist includes explicit IC descriptions as well as roles whose hands-on responsibilities support that interpretation. Flat internal titles, undisclosed pay and geography restrictions still require clarification. A useful next step is a compact evidence inventory: product judgment, research, visual craft, systems contribution and shipped outcomes. Mark missing proof honestly. No new title is needed to make that inventory valuable."
+  ],
+  "priorities": [
+    "Audit one role-change claim: separate task, decision authority and job title.",
+    "Add one decision record to a portfolio case: alternatives, rationale, collaborators and actual evidence.",
+    "Match the five openings against demonstrable craft, research and systems work; leave unsupported claims out."
+  ],
+  "sectionTitle": "Three signals · Evidence, systems and craft",
+  "stories": [
+    {
+      "section": "Organizational scope · November 5–6 preview",
+      "title": "An agenda is a research watchlist, not an outcome.",
+      "summary": "UXDX schedules sessions on AI-era role boundaries, customer agency and product operating models. The agenda establishes the planned topics, not whether the proposed approaches work.",
+      "takeaway": "Editorial implication: watch for concrete decision rights and measured results when accounts become available.",
+      "source": "UXDX · event November 5–6, 2026; agenda publication date not disclosed · checked November 4",
+      "url": "https://uxdx.com/sanfran/2026/agenda/"
+    },
+    {
+      "section": "Systems & practice · Forward watch",
+      "title": "Agent-ready systems are entering practitioner discussion.",
+      "summary": "The November 17–18 summit lists sessions on design systems for agents, changing product roles and craft. This is a future program, not fresh research or a recommendation to buy admission.",
+      "takeaway": "Editorial implication: ask for failure cases, maintenance effort and actual user results—not only compelling demonstrations.",
+      "source": "AI Product Design Summit · upcoming November 17–18, 2026; publication date not disclosed · checked November 4",
+      "url": "https://aiproductdesignsummit.com/"
+    },
+    {
+      "section": "Design craft · October 28 background",
+      "title": "Keep the reasoning behind your references.",
+      "summary": "Figma’s interview with Brent David Freaney describes a reference-gathering practice rooted in everyday visual material, including physical color sources. It offers a personal account rather than measured evidence.",
+      "takeaway": "Editorial implication: connect a visual choice to its purpose; inspiration alone does not explain product suitability.",
+      "source": "Figma · published October 28, 2026, seven-day background · checked November 4",
+      "url": "https://www.figma.com/blog/source-material-brent-david-freaney/"
+    }
+  ],
+  "coverage": [
+    "Sources checked November 4, 2026. No material fresh industry-wide hiring or title shift established in this bounded search. This is a quiet-news deeper analysis, not a report of new launches.",
+    "UXDX is an imminent event preview; the November 17–18 summit is explicitly a forward watch outside the seven-day news window. Neither is presented as completed research. The Figma interview is seven-day background. Publication dates are not inferred from crawl dates.",
+    "All five official job descriptions, full responsibilities and qualifications, and usable rendered application forms rechecked today. UTC timestamps appear in the job desk. Scope supports hands-on IC work; no required people-management duties found. No submissions or employer contact.",
+    "Retained openings are not claimed as newly posted or materially changed. Posting dates remain undisclosed. Employer compensation, geographic limits and missing fit evidence remain explicit. Public career material only; prior editions preserved.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-04",
+    "checkedAt": "2026-11-04T16:32:14.234019+00:00",
+    "note": "November 4 refresh · Five retained official openings and usable application forms rechecked today, not five newly posted jobs. Listed responsibilities support hands-on IC scope, not an employer guarantee. Pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-04T16:30:42.573398+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-04T16:30:43.118605+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-04T16:30:43.382925+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-04T16:30:43.093516+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-04T16:30:43.119450+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
