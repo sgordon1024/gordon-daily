@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-05",
+  "published": "8:33 AM Pacific",
+  "label": "THURSDAY EDITION",
+  "note": "Public career intelligence · New adoption evidence, practical systems questions and five rechecked openings.",
+  "kicker": "Adoption is not an outcome",
+  "headline": "More AI usage. Still a design-quality question.",
+  "summary": "Figma’s latest results provide fresh evidence of AI adoption inside paying customer accounts. They do not establish better products—or a stronger design job market. The useful career question is what quality you can demonstrate after the tool runs.",
+  "readTime": "6 minute read",
+  "body": [
+    "Figma’s November 4 results report that, as of October 31, 65% of paid customer accounts above $10,000 in annual recurring revenue were using its agent weekly. Over 80% of that account cohort consumed AI credits. Those are company-reported adoption measures for a defined customer segment—not percentages of all designers, and not evidence of successful user outcomes.",
+    "Editorial analysis: adoption creates a reason to examine workflow quality, not a reason to declare a profession obsolete. A vendor can measure activity without knowing whether a particular generated interaction is understandable, accessible or appropriate. For senior individual contributors, a stronger story is the connection between a production method and a result someone can actually evaluate.",
+    "Today’s Decagon session on Figma’s event site offers a concrete watch item: design-system maintenance, shared context and alignment between design and code. It is scheduled for 9 a.m. Pacific on November 5. This is a preview, not a report of demonstrated results; the page also contains unfinished template text. Treat the promised workflow as something to inspect, not independent proof of production quality.",
+    "An original portfolio exercise: choose one small but consequential interaction, such as changing who can approve a team expense. Start with a working baseline. Define what the user must understand before acting, what they can reverse afterward, and what feedback confirms the change. Then use an AI-assisted workflow to explore an alternative. Keep the task, constraints and evaluation criteria stable enough that the comparison means something.",
+    "Look beyond whether the generated version resembles the mockup. Check the reading order, keyboard path, error recovery, narrow-screen behavior and clarity of the permission change. Record what you corrected and why. A concise before-and-after sequence with a real usability finding is more persuasive than a wall of generated screens. If the evaluation is only your own review, label it that way; do not imply participant research or shipped impact.",
+    "The systems contribution is the reusable part of that learning. Write down when the pattern applies, which constraints must remain intact and when a different pattern is needed. Give examples of both an acceptable use and a plausible misuse. This is editorial advice, not a claim that a particular tool will reliably follow those instructions. Maintenance still needs an owner and a way to catch regressions.",
+    "The hiring counterpoint is already visible in one retained opening. Talkiatry’s Staff Product Designer listing combines clinical AI, patient portals, research and visual-system work, and explicitly describes senior IC leadership. It also says a particular AI job title is less important than strong fundamentals and evidence of handling unfamiliar interaction problems. This is one employer’s stated requirement, not a market-wide shift or a newly posted vacancy.",
+    "For a career decision, separate three inventories: what the employer asks for, what your work actually demonstrates, and what remains unknown. A code prototype does not substitute for research depth; a systems case does not automatically prove native-mobile craft. The shortlist keeps those gaps, compensation distinctions and geography restrictions visible. No material new title trend is established by today’s bounded search; the actionable change is better evidence about adoption, not certainty about hiring."
+  ],
+  "priorities": [
+    "Add one quality comparison to a case study: baseline, AI-assisted alternative, evaluation and corrections.",
+    "Document one reusable pattern with its constraints and a counterexample—not only its ideal appearance.",
+    "Compare role requirements with actual portfolio proof; keep pay, leveling and geography questions explicit."
+  ],
+  "sectionTitle": "Three signals · Adoption, systems and healthcare craft",
+  "stories": [
+    {
+      "section": "Industry evidence · November 4",
+      "title": "Account adoption is not a labor-market statistic.",
+      "summary": "Figma’s results supply fresh company-reported AI usage figures for its larger paid-customer cohort. They do not measure designer hiring, team size or product usability.",
+      "takeaway": "Editorial implication: use adoption as a reason to test workflows, not as proof of job growth or displacement.",
+      "source": "Figma investor relations · published November 4, 2026; metrics as of October 31 · checked November 5",
+      "url": "https://investor.figma.com/news-events/news/news-details/2026/Figma-Announces-Third-Quarter-2026-Financial-Results/default.aspx"
+    },
+    {
+      "section": "Systems practice · November 5 preview",
+      "title": "Ask what keeps design and code aligned after the demo.",
+      "summary": "Figma’s Decagon session advertises agent-assisted component and documentation maintenance plus reusable design context. The scheduled presentation is a practitioner example, not an independent evaluation.",
+      "takeaway": "Editorial implication: look for ownership, regression checks and exceptions before adopting the workflow. No attendance or registration is assumed.",
+      "source": "Figma events · scheduled November 5, 2026, 9 a.m. Pacific; publication date undisclosed · checked November 5",
+      "url": "https://fig-events.figma.com/how-decagon-scaled-a-design-system-for-the-ai-era/"
+    },
+    {
+      "section": "Healthcare hiring & craft · Active listing",
+      "title": "AI work can sit alongside foundational product design.",
+      "summary": "Talkiatry asks its Staff Product Designer to span AI interactions, patient flows, research and visual craft. The listing explicitly supports IC leadership and does not require an existing AI-specific title.",
+      "takeaway": "Editorial implication: show how strong fundamentals transfer to unfamiliar problems. Native-mobile and independent research evidence remain important gaps to check.",
+      "source": "Talkiatry official careers · posting date not disclosed; active listing, not fresh-news claim · checked November 5",
+      "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391"
+    }
+  ],
+  "coverage": [
+    "Sources checked November 5, 2026. Figma financial release published November 4; its adoption metrics describe October 31. These are vendor-reported account measures, not workforce or quality research.",
+    "Decagon is a same-day event preview; no claims about session outcomes. Event page contains template residue. Talkiatry is an undated active posting, explicitly separated from the fresh-news window.",
+    "All five official descriptions, full responsibilities and qualifications, and rendered application forms rechecked today. Each has usable fields and a submit control; nothing submitted. UTC checks appear in the job desk. Scope supports IC work; no required people-management duties found.",
+    "Retained vacancies are not claimed newly posted or materially changed. No new title trend established in this bounded search. Public career intelligence only; prior editions preserved.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-05",
+    "checkedAt": "2026-11-05T16:33:05.039980+00:00",
+    "note": "November 5 refresh · Five retained official openings and usable application forms rechecked today, not five newly posted jobs. Listed responsibilities support hands-on IC scope, not an employer guarantee. Pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-05T16:30:58.673887+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-05T16:30:59.554779+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-05T16:30:59.729866+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-05T16:30:59.143321+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-05T16:30:59.730889+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
