@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-06",
+  "published": "8:33 AM Pacific",
+  "label": "FRIDAY EDITION",
+  "note": "Public career intelligence · A fresh hiring snapshot, editable AI craft and five rechecked openings.",
+  "kicker": "Read the scope behind the statistic",
+  "headline": "AI skills are showing up. Titles tell only part of the story.",
+  "summary": "A new design-systems job-board snapshot offers a useful hiring signal—not a census of the profession. The practical response is to make systems judgment, implementation fluency and measurable influence easier to see.",
+  "readTime": "6 minute read",
+  "body": [
+    "Into Design Systems reports 208 open roles on its board as of November 5. Among 204 postings with full descriptions, 150 mention AI or agentic skills; 51 of all 208 are classified remote. Its title counts overlap: Staff or Senior appears in 85 titles, while Design System Engineer appears in 19. These are the publisher’s counts of its curated inventory, not a representative survey or an independently audited hiring total.",
+    "Editorial analysis: this is evidence of requirements appearing together, not proof of a new career ladder. Without a comparable earlier sample, it cannot establish acceleration, contraction or replacement of a title. It also cannot tell us how many openings are genuinely senior individual-contributor roles. A smaller, carefully verified set is more useful for a decision than treating every systems vacancy as eligible.",
+    "For a senior designer, the useful exercise is to separate three kinds of evidence. Systems judgment means explaining which decisions should be shared and which need local flexibility. Implementation fluency means understanding how those decisions survive in working software. Organizational influence means showing how other teams adopted the approach without relying on reporting-line authority. A strong case study can show all three without claiming to be a people manager or a full-time engineer.",
+    "Consider an original portfolio exercise: a shared status pattern used across a support dashboard and a customer-facing account page. The staff-level question is not simply whether the two badges look alike. It is whether they communicate the same underlying state, whether the language works for each audience, and whether a change in one surface creates a contradiction in the other. Explain who owns that definition and how an exception gets resolved.",
+    "Build the evidence around a real decision. Show the earlier ambiguity, the alternative you rejected and the reason for the final boundary. Include the actual artifact that helped others implement it: perhaps a state table, annotated prototype or documented component rule. If adoption or outcome data exists, use it with its measurement period. If it does not, say what was evaluated and what remains unproven. A persuasive scope story does not need invented impact numbers.",
+    "Two recent Figma updates make this discussion concrete. November 5 release notes describe generated vectors with independently grouped layers, editable strokes and reference-based styling. A November 4 sample workflow shows colleagues exploring and combining code-backed prototypes on one canvas before developer review. The first is a vendor capability announcement; the second is a fictional demonstration, not a customer outcome study.",
+    "Editorial implication: editable output changes what is worth inspecting. For an icon, look beyond immediate visual appeal to consistency across sizes, stroke behavior and whether the meaning remains clear beside a text label. For an interactive prototype, inspect focus movement, recovery from an empty result and the behavior after a user changes their mind. These checks are suggested evaluation criteria, not claims that either release guarantees accessibility or production readiness.",
+    "Today’s job desk keeps the decision close to actual employer evidence. Five previously listed roles remain active, and their full responsibilities, qualifications and application forms were rechecked. None is presented as newly posted. The gaps are still meaningful: code examples, native-mobile craft, multi-product SaaS experience, creative-tool expertise, pay disclosure and geographic eligibility. Do not let a broad AI-skills statistic substitute for matching the specific scope of one role."
+  ],
+  "priorities": [
+    "Strengthen one systems case with the decision boundary, implementation artifact and evidence of adoption.",
+    "Inspect one generated asset or prototype for editability, accessibility and recovery behavior—not only visual polish.",
+    "Compare each opening’s actual scope, geography and pay with verified evidence; do not infer level from the title alone."
+  ],
+  "sectionTitle": "Three signals · Hiring, craft and collaboration",
+  "stories": [
+    {
+      "section": "Hiring evidence · November 5",
+      "title": "A curated board is a signal, not the whole market.",
+      "summary": "Into Design Systems publishes a dated snapshot of its own listings, with AI requirements, remote status and overlapping title categories. Its methodology counts posting language; it does not establish a time-series trend.",
+      "takeaway": "Editorial implication: broaden search vocabulary, then verify seniority and hands-on scope at the employer. Do not read title counts as mutually exclusive professions.",
+      "source": "Into Design Systems · inventory dated November 5, 2026 · checked November 6",
+      "url": "https://jobs.intodesignsystems.com/design-system-hiring-report"
+    },
+    {
+      "section": "Design craft · November 5",
+      "title": "Generated vectors still need a system-level review.",
+      "summary": "Figma says its agent’s illustration and icon output now offers useful layer grouping, stroke-based line work and style references. These are editing affordances, not proof of coherent icon families.",
+      "takeaway": "Editorial implication: test several related assets at realistic sizes and in context before adding them to a shared library.",
+      "source": "Figma release notes · November 5, 2026 · checked November 6",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "section": "Collaboration · November 4",
+      "title": "The shared canvas can preserve alternatives—not just the winning screen.",
+      "summary": "Figma’s Workflow Lab demonstrates side-by-side code-layer exploration, combining teammates’ ideas and documenting technical implications before review. The example uses a fictional marketplace.",
+      "takeaway": "Editorial implication: preserve the rejected option and decision rationale. A working prototype still needs implementation review and testing.",
+      "source": "Figma · Mari Kong · published November 4, 2026 · checked November 6",
+      "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/"
+    }
+  ],
+  "coverage": [
+    "Sources checked November 6, 2026. Hiring snapshot and vector release dated November 5; workflow article dated November 4. Exact publication hours unavailable; all are within the seven-day window.",
+    "Job-board figures are publisher-reported counts of a curated sample, not a labor-market census or independently reproduced statistics. No longitudinal title trend is established.",
+    "Five official employer descriptions, full responsibilities and qualifications, and usable rendered application forms checked today. Listed scope supports IC work; no required people-management responsibilities found. UTC checks are recorded in the job desk. Nothing submitted.",
+    "Retained openings are not claimed new or materially changed. Original analysis is labeled; vendor demonstration is not treated as outcome evidence. Public career intelligence only; previous editions preserved.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-06",
+    "checkedAt": "2026-11-06T16:33:26.831172+00:00",
+    "note": "November 6 refresh · Five retained official openings and application forms rechecked today, not five newly posted jobs. Hands-on IC scope is supported by listed responsibilities, not an employer guarantee. Pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-06T16:30:52.557451+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-06T16:30:54.030073+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-06T16:30:53.442059+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-06T16:30:52.765064+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-06T16:30:53.843813+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
