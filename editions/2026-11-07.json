@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-07",
+  "published": "8:31 AM Pacific",
+  "label": "SATURDAY EDITION",
+  "note": "Public career intelligence · Agent behavior, editing craft and accessibility planning.",
+  "kicker": "The behavior behind the interface",
+  "headline": "An agent needs a product contract, not just a polished conversation.",
+  "summary": "The useful shift in AI design is a wider responsibility for behavior—not evidence that a familiar title is disappearing. Make the boundaries of a product legible, testable and shared across disciplines.",
+  "readTime": "6 minute read",
+  "body": [
+    "NN/g’s November 6 explanation of agent harnesses offers a practical vocabulary for product teams. The surrounding software connects a model to tools, supplies context and enforces permissions and execution limits. Its central design implication is that screens and model choice alone do not define the experience. This is practitioner guidance, not a hiring survey or evidence that a new job title has become standard.",
+    "Editorial analysis: for a senior IC, this creates a useful way to demonstrate cross-functional scope. A portfolio can show how a team agreed on what the product promises, how users recognize its current state, and which evidence supports those promises. That is a stronger argument than adding “agentic” to an existing case-study heading. The following exercise is original editorial advice, not a reported customer outcome.",
+    "Consider a hypothetical enterprise tool that proposes changes to a shared catalog. Start with the differences between a suggestion, a reviewed change and a committed change. Which version is visible to another teammate? What happens if the underlying item changes while a review is open? A beautifully worded explanation will not resolve contradictory states. A small state table can expose those disagreements before the team invests in animation or conversation styling.",
+    "Build one reviewable artifact around that example: a before-and-after record, a short account of the alternative considered, and a prototype of the difficult transition. Invite engineering to identify what can actually be guaranteed and research to identify what people need to understand. Document the final decision and any unresolved limitation. This shows influence through a shared working model, rather than treating organizational leadership as a synonym for managing direct reports.",
+    "The evaluation should fit the claim. If the claim is that reviewers can distinguish a proposal from a committed edit, observe that distinction in realistic tasks. Record where participants hesitate or misinterpret the state. If the study is exploratory, say so; do not turn a handful of sessions into a universal success rate. If no evaluation happened, present the artifact as a design hypothesis rather than proof of impact.",
+    "Two other updates keep this broader scope connected to craft and systems. Figma’s November 6 release adds object-click selection to its Select area image-editing tool, on the macOS desktop app only. W3C’s November 4 activity update distinguishes ongoing standards work from planned publications, including mobile accessibility guidance. Neither announcement establishes that generated interfaces are accessible or that a design team can skip evaluation.",
+    "Editorial implication: separate production convenience from product quality. Faster image selection can make visual exploration less laborious; it does not answer whether an image explains the task. A standards roadmap can help a system owner plan review time; it is not a completed release. In both cases, the senior contribution is deciding which evidence changes a product decision and which merely changes the workflow.",
+    "The hiring desk remains deliberately concrete. All five retained openings and their application forms were checked today; none is labeled newly posted. Read the caveats as an evidence checklist: independently shipped work and code examples, native-mobile craft, multi-product SaaS outcomes, creative-tool expertise, or unresolved geography and pay. The presence of AI responsibilities does not prove a new ladder or a better fit. Match the actual work, then clarify the employer’s leveling."
+  ],
+  "priorities": [
+    "Add one behavior-contract artifact to a portfolio case: states, decision rationale and an honest evaluation result.",
+    "Keep craft gains separate from quality claims; inspect the output in its intended task and context.",
+    "Use the five-role desk to identify missing evidence, not to assume title equivalence or compensation fit."
+  ],
+  "sectionTitle": "Three signals · Behavior, craft and accessibility",
+  "stories": [
+    {
+      "section": "AI product scope · November 6",
+      "title": "The harness belongs in the design discussion.",
+      "summary": "NN/g explains how the software around a model shapes available actions and user effort. It recommends specifying system behavior alongside the interface and evaluating complete tasks.",
+      "takeaway": "Editorial implication: align design, engineering and product on observable behavior before polishing a conversational surface. This is expanded responsibility, not proof of title replacement.",
+      "source": "NN/g · Caleb Sponheim · November 6, 2026 · checked November 7",
+      "url": "https://www.nngroup.com/articles/agent-harness/"
+    },
+    {
+      "section": "Design craft · November 6",
+      "title": "Object selection gets a smaller interaction cost.",
+      "summary": "Figma says Select area can now select an image object with a click instead of requiring manual tracing. The release is limited to the macOS desktop app.",
+      "takeaway": "Editorial implication: try it on a representative asset and inspect the selection boundary. A vendor capability announcement is not a measured productivity or quality result.",
+      "source": "Figma release notes · November 6, 2026 · checked November 7",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "section": "Accessibility systems · November 4 update",
+      "title": "Plan for drafts without treating them as finished standards.",
+      "summary": "W3C WAI’s updated activity page says WCAG 3 remains an evolving draft, years from completion. It plans an updated WCAG2Mobile working draft and an ARIA 1.3 Candidate Recommendation Snapshot for November or December.",
+      "takeaway": "Editorial implication: reserve review capacity for the forthcoming documents, but keep draft tracking distinct from the requirements a product currently uses. The roadmap is not confirmation of publication.",
+      "source": "W3C Web Accessibility Initiative · updated November 4, 2026 · checked November 7",
+      "url": "https://www.w3.org/WAI/update/"
+    }
+  ],
+  "coverage": [
+    "Sources checked November 7, 2026. NN/g article and Figma release dated November 6; W3C activity page updated November 4. All fall within seven days; exact publication hours were not disclosed.",
+    "No newly posted or materially changed job is claimed. Five retained official descriptions, full responsibilities and qualifications, and usable application forms were rechecked; UTC timestamps appear in the job desk. No applications submitted or employers contacted.",
+    "IC scope is supported by positive hands-on responsibilities and absence of required people-management duties in the reviewed listings; it is not a guarantee beyond those listings.",
+    "Original portfolio exercise and career implications are labeled editorial analysis. No labor-market trend or title-disappearance claim is inferred from a product update. Previous editions remain unchanged.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-07",
+    "checkedAt": "2026-11-07T16:31:54.199890+00:00",
+    "note": "November 7 refresh · Five retained official openings and usable application forms rechecked today; these are not newly posted jobs. Hands-on IC scope is supported by listed responsibilities, not an employer guarantee. Compensation, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-07T16:30:35.893622+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-07T16:30:39.075558+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-07T16:30:42.461213+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-07T16:30:45.086719+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-07T16:30:48.387413+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
