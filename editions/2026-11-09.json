@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-09",
+  "published": "8:32 AM Pacific",
+  "label": "MONDAY EDITION",
+  "note": "Public career intelligence · A quiet-news-day analysis of evaluation, systems and senior IC scope.",
+  "kicker": "The evidence behind the output",
+  "headline": "A faster prototype still needs a definition of good.",
+  "summary": "No material new hiring or title shift was verified in the past 48 hours. Today’s deeper analysis: make evaluation a visible design deliverable, not an invisible cleanup cost.",
+  "readTime": "6 minute read",
+  "body": [
+    "NN/g’s November 6 replacement for Usability 101 makes a timely distinction: an interface that an agent can operate is not necessarily usable by a person. It also warns against treating synthetic users as reliable substitutes for human participants. These are evaluation principles, not evidence that a design title is disappearing.",
+    "Editorial analysis: senior IC influence can become more legible when the portfolio explains how a team judged competing outputs. A polished final screen shows craft. A clear account of what was rejected, what was tested and who resolved the tradeoff shows how that craft changed the product. Neither requires presenting project leadership as people management.",
+    "Here is an original exercise for a hypothetical enterprise search product. Compare two results pages: one densely packed with filters, another organized around a conversational answer. Before choosing, specify the actual task—finding a current policy and deciding whether it applies. Do not let an attractive answer card quietly change the definition of success from finding reliable information to producing plausible prose.",
+    "Create a small evaluation sheet with four columns: decision to make, evidence needed, observed result and remaining uncertainty. Include a task where the source is outdated, one where two sources conflict, and one where the answer is absent. A successful empty state may be more valuable than a confident answer. This is a suggested exercise, not a reported study or a universal testing standard.",
+    "Keep visual craft inside that evaluation. Inspect hierarchy, source legibility, focus order and whether status is communicated without relying on color alone. Then test the difficult transition: can someone move from the proposed answer to the underlying source without losing context? Automated checks can catch particular defects; they cannot by themselves demonstrate that a person understood the answer.",
+    "Organizational scope appears in what happens next. A senior IC can bring engineering, research and product partners together around a disputed criterion, document the decision, and turn a recurring issue into a shared pattern. Show which disagreement was resolved and what evidence changed the outcome. If the evidence is incomplete, make the open question part of the case rather than filling the gap with a fictional metric.",
+    "The systems implication is modest but useful. Supernova’s November 3 worked example shows how a compact design-context file can omit substantial detail from a mature library. Treat its findings as one vendor-authored example, not a benchmark of every format. The editorial lesson is to distinguish an explanation of intent from the implementation source that supplies exact behavior.",
+    "The job desk reinforces the need to read the work behind the title. All five retained roles and their application forms were rechecked today. None is presented as newly posted. Their caveats identify concrete missing evidence—shipped independent work, native-mobile execution, multi-product outcomes or creative-tool expertise—and unresolved pay or geographic eligibility. These openings are examples of scope, not a representative labor-market sample."
+  ],
+  "priorities": [
+    "Add one evaluation sheet to a case study: the decision, evidence, observed result and unresolved question.",
+    "Test an uncomfortable product state alongside the polished default; keep accessibility and visual hierarchy in the review.",
+    "Use the five-role desk to select an evidence gap to close before assuming a title or pay match."
+  ],
+  "sectionTitle": "Three signals · Evaluation, systems and operations",
+  "stories": [
+    {
+      "section": "Design craft & research · November 6",
+      "title": "Usability still belongs to people and tasks.",
+      "summary": "NN/g’s revised introduction connects usability to a particular user, task and context. It notes that generated responses and controls can vary between interactions, complicating evaluation.",
+      "takeaway": "Editorial implication: a successful demonstration is not sufficient evidence for a variable experience. Evaluate the task and the difficult cases, not only the most attractive output.",
+      "source": "NN/g · Raluca Budiu · November 6, 2026 · checked November 9",
+      "url": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/"
+    },
+    {
+      "section": "Design systems · November 3",
+      "title": "A summary file is not the whole component library.",
+      "summary": "Supernova reports that its hand-written DESIGN.md for Skyscanner’s Backpack retained 32 of 434 tokens and omitted dark mode and button API detail. The author recommends keeping intent in the summary while retrieving precise values from the system.",
+      "takeaway": "Editorial implication: check representative states and variants before claiming an agent is system-compliant. This is a vendor’s worked example; Supernova sells related tooling.",
+      "source": "Supernova · Nezar Mansour · November 3, 2026 · checked November 9",
+      "url": "https://www.supernova.io/blog/design-md-design-system"
+    },
+    {
+      "section": "Organizational practice · Upcoming November 10",
+      "title": "DesignOps discussion shifts toward adoption costs.",
+      "summary": "Designlab lists a one-hour talk with Ryan Hallak for November 10 at 1 p.m. EST / 10 a.m. Pacific. The advertised agenda covers AI-tool evaluation, rollout, quality problems and hidden costs.",
+      "takeaway": "Editorial implication: use the agenda as a prompt to examine review and learning costs, not just generation speed. This is an upcoming event, not completed research or a personal commitment.",
+      "source": "Designlab · event November 10, 2026; listing publication date not disclosed · checked November 9",
+      "url": "https://app.livestorm.co/designlab/utilizing-ai-to-improve-designops"
+    }
+  ],
+  "coverage": [
+    "Sources checked November 9, 2026. Articles are dated November 6 and November 3 (within seven days, not fresh 48-hour news); the Designlab event is upcoming November 10. No material new hiring or title shift was verified in the searched sources.",
+    "Five retained official employer descriptions, full responsibilities and qualifications, and usable application forms checked today. UTC verification times appear in the opening desk. Posting dates are not disclosed; discovery and verification are not posting dates.",
+    "Hands-on IC scope is supported by the reviewed responsibilities with no required people-management duties identified. No employer contacted and no application submitted.",
+    "Lead exercise and career implications are editorial analysis, not measured outcomes. Public career information only; prior editions preserved.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-09",
+    "checkedAt": "2026-11-09T16:32:05.515885+00:00",
+    "note": "November 9 refresh · Five retained official openings and usable application forms rechecked today; not newly posted jobs. Hands-on IC scope is supported by listed responsibilities, not an employer guarantee. Pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-09T16:30:41.986099+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-09T16:30:46.516579+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-09T16:30:51.277422+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-09T16:30:56.225309+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-09T16:31:00.832604+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
