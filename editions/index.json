@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-11-10",
+      "headline": "Make the behavior reusable, not just the component.",
+      "summary": "Figma’s new motion controls are a concrete craft update. The senior-IC opportunity is broader: make the reasoning behind a behavior portable across teams, platforms and AI-assisted workflows."
+    },
+    {
       "date": "2026-11-09",
       "headline": "A faster prototype still needs a definition of good.",
       "summary": "No material new hiring or title shift was verified in the past 48 hours. Today’s deeper analysis: make evaluation a visible design deliverable, not an invisible cleanup cost."
