@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-11-11",
+      "headline": "Make responsible AI something a team can test.",
+      "summary": "Tomorrow’s World Usability Day puts ethical AI on the agenda. The practical senior-IC opportunity is to turn a broad principle into a specific interaction, a reviewable decision and evidence of what people understand."
+    },
+    {
       "date": "2026-11-10",
       "headline": "Make the behavior reusable, not just the component.",
       "summary": "Figma’s new motion controls are a concrete craft update. The senior-IC opportunity is broader: make the reasoning behind a behavior portable across teams, platforms and AI-assisted workflows."

@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-11",
+  "published": "8:31 AM Pacific",
+  "label": "WEDNESDAY EDITION",
+  "note": "Public career intelligence · Quiet-news analysis, usability and five reverified senior-IC openings.",
+  "kicker": "From principle to product decision",
+  "headline": "Make responsible AI something a team can test.",
+  "summary": "Tomorrow’s World Usability Day puts ethical AI on the agenda. The practical senior-IC opportunity is to turn a broad principle into a specific interaction, a reviewable decision and evidence of what people understand.",
+  "readTime": "6 minute read",
+  "body": [
+    "No material new industry shift was verified in this morning’s source review. Rather than repeat yesterday’s release news, today’s deeper analysis asks how a senior designer can make responsible-AI work concrete. World Usability Day’s November 12 program provides a timely prompt, not evidence that employers have created a new profession or that a particular interface is safe.",
+    "Editorial analysis: broad values become useful product work when a team can name the decision they change. “Keep the human in control” is too vague to resolve a design review. A sharper question is whether someone can see what an automated action will change, choose a smaller action, and recover when the result is wrong. The answer should be visible in the interaction—not only in a principles slide.",
+    "Consider a hypothetical assistant that reorganizes a shared project workspace. A friendly confirmation can still hide important consequences: which files move, whether collaborators lose access, and what happens to links. This is an original design exercise, not a reported incident. Start with a preview of the actual changes and a clear distinction between a suggestion, an approved action and a completed action. Then decide which changes need individual review.",
+    "Craft matters here. Group consequences by importance rather than treating every detail as equally urgent. Use plain-language labels, readable hierarchy and a stable place for status. Make the alternative action discoverable without forcing someone through a conversational negotiation. Include keyboard and screen-reader checks in implementation review. These are proposed checks, not a claim that a mockup or an automated audit establishes accessibility.",
+    "The next artifact is a small evidence plan. Ask people to explain what will happen before they confirm. Observe whether they can identify an unexpected change, stop the operation and find the recovery route. Record misunderstandings separately from software failures. A successful click is not necessarily an informed decision; a participant who completes the task while misunderstanding its consequences exposes a different problem from someone who cannot find the button.",
+    "For systems work, turn the resolved interaction into a reusable review pattern: consequence preview, decision point, progress feedback and recovery. Specify when the pattern is insufficient, such as an action whose effects cannot actually be reversed. An interface should not promise undo merely because a familiar component has an undo label. Engineering and domain partners need to confirm what recovery means for the underlying operation.",
+    "The organizational contribution is equally concrete. Bring the unresolved tradeoff to the partners who can decide it, state what evidence is missing, and document the choice. Distinguish product judgment from legal, security or clinical approval where those functions are involved. Senior influence can mean getting the right decision made and carried through implementation; it does not require claiming authority over every specialist discipline.",
+    "For a portfolio, show the original ambiguity, two plausible approaches, what changed after review and what remains untested. If no production outcome exists, label the work as a prototype or proposal. A clear account of a consequential design decision is stronger than an unsupported claim of increased trust. The hiring desk offers relevant openings, but employer-specific craft, research and domain gaps still need evidence—not a new AI title on the cover page."
+  ],
+  "priorities": [
+    "Turn one responsible-AI principle into an observable question: can a person explain, limit and recover from the action?",
+    "Add one consequential tradeoff and its evidence gap to a portfolio case study; label prototypes and untested claims honestly.",
+    "Use the five-role desk to compare actual scope and missing evidence, not just titles or remote labels."
+  ],
+  "sectionTitle": "Three signals · Usability, systems and hiring",
+  "stories": [
+    {
+      "section": "Professional practice · November 12 event",
+      "title": "World Usability Day makes ethical AI a discussion topic.",
+      "summary": "The official program lists November 12 events under a sustainable-future and ethical-AI theme. UXPA’s virtual networking event is free for members, not an unrestricted public webinar.",
+      "takeaway": "Editorial implication: use the theme as a prompt for concrete design review. An event agenda is not research evidence or a personal commitment.",
+      "source": "World Usability Day · event November 12, 2026; page publication date not disclosed · checked November 11",
+      "url": "https://worldusabilityday.org/"
+    },
+    {
+      "section": "Design systems · Upcoming free lesson",
+      "title": "Inspect what an agent actually understands.",
+      "summary": "Christine Vallaure’s November 12 Maven lesson, with Vitaly Friedman, advertises a live look at how an agent reads a Figma file and codebase, plus a system-review checklist.",
+      "takeaway": "Editorial implication: compare intended component meaning with generated behavior. This is an advertised lesson, not a validated result; confirm the event’s displayed timezone before registering.",
+      "source": "Maven instructor listing · event November 12, 2026; publication date not disclosed · checked November 11",
+      "url": "https://maven.com/p/395ea3/ai-ready-design-systems-what-changes-for-ui-and-ux"
+    },
+    {
+      "section": "Hiring evidence · Reverified November 11",
+      "title": "AI responsibilities need not come with an AI-specific title.",
+      "summary": "Talkiatry’s Staff Product Designer opening explicitly combines senior IC scope, clinical AI, patient flows, research and design-system work. It says foundational skills matter more than a particular AI title; healthcare experience is a plus, not required.",
+      "takeaway": "Editorial implication: demonstrate how you handle unfamiliar interaction problems. This one opening supports a targeted opportunity, not a market-wide conclusion about titles.",
+      "source": "Talkiatry official posting · posting date not disclosed; description and application form checked November 11",
+      "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391"
+    }
+  ],
+  "coverage": [
+    "Sources checked November 11, 2026. Upcoming November 12 events are labeled as agendas, not completed research. No material new industry shift was verified in the sources searched this morning.",
+    "Figma release notes rechecked: latest listed release remains November 10, covered in yesterday’s edition. Not recycled as new news today. https://www.figma.com/release-notes/",
+    "Five retained employer descriptions, full responsibilities and qualifications, and usable application forms rechecked November 11. Exact UTC timestamps are in the opening desk; discovery and verification are not posting dates. No newly posted or materially changed role is claimed.",
+    "Hands-on IC scope is supported by listed duties; no required people-management accountability identified. Compensation and geographic caveats remain. No applications or outreach.",
+    "Lead exercise and recommendations are original editorial analysis, not measured outcomes. Public career information only; prior dated editions preserved.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-11",
+    "checkedAt": "2026-11-11T16:30:47.298713+00:00",
+    "note": "November 11 refresh · Five retained official openings and usable application forms rechecked today; not newly posted jobs. Hands-on IC scope is supported by listed responsibilities, not an employer guarantee. Pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-11T16:30:34.857878+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-11T16:30:37.687650+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-11T16:30:41.047205+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-11T16:30:44.388490+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-11T16:30:47.298713+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
