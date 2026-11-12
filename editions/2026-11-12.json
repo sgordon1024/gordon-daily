@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-12",
+  "published": "8:32 AM Pacific",
+  "label": "THURSDAY EDITION",
+  "note": "Public career intelligence · Quiet-news analysis, organizational scope and five reverified openings.",
+  "kicker": "Senior influence, made visible",
+  "headline": "Show how the work keeps moving after your handoff.",
+  "summary": "AI fluency is easier to claim than operational leverage. A stronger senior-IC case explains how design decisions survive implementation, cross-team use and the next product change.",
+  "readTime": "6 minute read",
+  "body": [
+    "No material new industry shift was verified in this morning’s source review. Today’s deeper analysis moves from the quality of a single interaction to the organization around it: how does a senior designer make good work repeatable without becoming the approval bottleneck? The argument below is editorial judgment, not a measured hiring trend.",
+    "A polished flow can conceal an expensive dependency. If every new use case requires the original designer to explain the same rule, the team has reusable artwork but not necessarily reusable judgment. A useful portfolio story shows what colleagues could decide independently after the work—not simply how many components were delivered.",
+    "Consider a hypothetical multi-product workspace introducing an AI-assisted task panel. Teams disagree about where recommendations belong, when a task becomes an action, and who handles incomplete results. This is an original exercise, not a reported deployment. The senior contribution could be a small decision guide: use this pattern for suggestions, this one for work awaiting approval, and this one when execution has failed. Include examples that do not fit.",
+    "The craft still has to hold up. Define the content hierarchy, visible status, empty and error states, keyboard route and accessible announcement behavior. Pair the interaction example with the constraint that explains it. “Use this component” is less helpful than explaining why its status remains visible after a panel closes. Test the implementation with relevant users and assistive technology rather than treating documentation as proof of quality.",
+    "Then give the operating model a boundary. Who can adapt the pattern? Which changes need engineering review? What evidence would justify a new variant? A lightweight record can name the decision, owner, unresolved question and next review trigger. Avoid adding a standing meeting where a clear example and a named decision-maker would suffice. The goal is fewer repeated negotiations, not a larger process.",
+    "This is organizational influence, but it is not automatically people management. In a role discussion, distinguish responsibility for a product decision from responsibility for staffing or performance reviews. Likewise, leading a critique or mentoring a colleague does not by itself make a role managerial. The five openings above were reviewed against their full listed scope; titles alone were not used to establish that distinction.",
+    "For a case study, show one before-and-after decision path. Before: several teams interpreted the same interaction differently. After: a documented rule, a working example and a clear exception route. Only claim reduced rework or faster delivery if you have evidence. Without production measurement, describe the intended effect and what you would track: repeated clarification requests, divergent implementations or unresolved exceptions.",
+    "The practical career move is to make that evidence easy to inspect. Put one consequential decision beside the artifact that carried it into production, and explain what you personally designed. AI-generated prototypes can demonstrate exploration; the stronger senior signal is knowing what must remain consistent, what can vary, and how another team can act without guessing."
+  ],
+  "priorities": [
+    "Add one decision-to-implementation example to a case study, with the constraint and exception route visible.",
+    "Separate demonstrated outcomes from intended effects; name missing evidence instead of inventing an efficiency claim.",
+    "Compare openings by hands-on ownership, decision authority and leveling—not titles alone."
+  ],
+  "sectionTitle": "Three signals · Practice, organizations and hiring",
+  "stories": [
+    {
+      "section": "Professional practice · November 12 event",
+      "title": "Trust is on the design-leadership agenda; outcomes are not yet evidence.",
+      "summary": "World Class Design’s Paris event brings Proton and Shine design leaders together to discuss AI-product judgment, team changes and hiring skills. The official registration page currently says the event is full, with a waitlist.",
+      "takeaway": "Editorial implication: the topic is a useful signal of discussion, not proof that a new job category has emerged or that any approach improves trust.",
+      "source": "World Class Design on Luma · November 12 event date cross-checked with event directory; publication date not disclosed · checked November 12, 2026",
+      "url": "https://luma.com/01vwvdjr"
+    },
+    {
+      "section": "Organizational scope · November 12 program",
+      "title": "Scaling design includes shared practice, not only team growth.",
+      "summary": "NN/G’s November program includes DesignOps today. Its syllabus distinguishes operational thinking from a dedicated role and covers shared systems, design quality and measuring impact, alongside team-structure topics.",
+      "takeaway": "Editorial implication: use the public syllabus to examine a capability gap. This is a curriculum signal, not new research or a recommendation to buy training.",
+      "source": "NN/G official syllabus and November schedule · session November 12, 2026; page publication date not disclosed · checked November 12",
+      "url": "https://www.nngroup.com/courses/scaling-ux-design-and-user-research/?event=november"
+    },
+    {
+      "section": "Hiring evidence · Reverified November 12",
+      "title": "A Staff headline does not settle the leveling question.",
+      "summary": "Hightouch advertises a Staff Product Designer for AI Creative Tools, but its FAQ says the company does not use formal levels. The listed work combines prototypes, customer research and product-direction influence; numeric pay is not disclosed.",
+      "takeaway": "Editorial implication: assess actual decision scope and compensation before treating the headline as a career-level match. One listing is not a market-wide title trend.",
+      "source": "Hightouch official description and application · posting date not disclosed · checked November 12, 2026",
+      "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272"
+    }
+  ],
+  "coverage": [
+    "Sources checked November 12, 2026. No material new industry shift verified in this morning’s reviewed sources; lead is original editorial analysis, not reported research.",
+    "Figma release notes rechecked: latest listed item remains November 10, already covered; not presented as new news. https://www.figma.com/release-notes/",
+    "Event date cross-check: https://www.anopenroom.com/paris/events/designing-ai-products-people-trust-1112 . Availability follows the official Luma page, not the directory’s older open-places claim. No event attendance or outcomes asserted.",
+    "NN/G date reference: https://www.nngroup.com/training/november/ . Curriculum is a program signal, not an empirical finding or a purchase recommendation.",
+    "Fresh-role searches included remote senior/staff/principal AI and healthcare/oncology. No newly posted or materially changed role was established for today’s shortlist. Five retained official descriptions and application forms reverified; timestamps appear in the desk. Posting dates remain undisclosed.",
+    "Full responsibilities and qualifications support hands-on IC scope for all five; no required people-management duties identified. Pay and geography caveats remain. No applications or outreach. Public career information only; previous editions preserved.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-12",
+    "checkedAt": "2026-11-12T16:30:44.033372+00:00",
+    "note": "November 12 refresh · Five retained official openings and usable application forms rechecked today; not newly posted jobs. Hands-on IC scope is supported by listed responsibilities, not an employer guarantee. Pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-12T16:30:37.868678+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-12T16:30:39.794110+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-12T16:30:40.846895+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-12T16:30:42.362514+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-12T16:30:44.033372+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}

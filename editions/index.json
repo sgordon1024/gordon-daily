@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-11-12",
+      "headline": "Show how the work keeps moving after your handoff.",
+      "summary": "AI fluency is easier to claim than operational leverage. A stronger senior-IC case explains how design decisions survive implementation, cross-team use and the next product change."
+    },
+    {
       "date": "2026-11-11",
       "headline": "Make responsible AI something a team can test.",
       "summary": "Tomorrow’s World Usability Day puts ethical AI on the agenda. The practical senior-IC opportunity is to turn a broad principle into a specific interaction, a reviewable decision and evidence of what people understand."
