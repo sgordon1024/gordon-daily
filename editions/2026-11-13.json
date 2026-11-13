@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-13",
+  "published": "11:03 AM Pacific",
+  "label": "FRIDAY EDITION",
+  "note": "Public career intelligence · Research practice, AI prototyping and five reverified openings.",
+  "kicker": "Designing for what comes after shipping",
+  "headline": "A release should produce learning, not just software.",
+  "summary": "Faster builds make the evidence plan more important. Senior designers can show how a product change becomes a defensible decision—not merely a finished prototype.",
+  "readTime": "6 minute read",
+  "body": [
+    "Today’s fresh practice signal is NN/G’s November 13 proposal for research-in-the-loop: connect research requirements to AI-assisted development while preserving independent discovery. It is a proposed approach with open questions, not a proven productivity result. The career implication is editorial judgment: design leadership increasingly needs to make the learning plan as inspectable as the interaction.",
+    "Here is an original portfolio exercise. Imagine a business dashboard that lets operators bulk-edit several settings. The design looks simpler because it replaces repeated dialogs with a single review screen. Before calling it an improvement, ask what a successful correction looks like, whether users understand the scope of the change, and how they recover from an unintended edit. A shorter path is not the same as a better outcome.",
+    "Make the craft concrete. Show the selection state, the review hierarchy, the difference between a pending and completed change, and the keyboard route through the confirmation. Demonstrate what happens when one item fails while others succeed. These are interaction-design decisions, not an analytics dashboard’s job. A prototype is useful precisely because it lets someone challenge those decisions before they become expensive habits.",
+    "For the case study, separate three artifacts: the design you shipped, the evidence you actually collected, and the decision that evidence supported. Do not turn an intended benefit into a measured result. If the project never reached production, say so; explain what the prototype established and what remains unknown. A clearly bounded claim is more credible than an impressive percentage without a baseline.",
+    "The organizational contribution can be modest but consequential: agree with engineering and research on who checks the result, who investigates unexpected behavior, and who decides whether to change course. That is cross-functional influence without requiring a management title. A designer can own the interaction and coordinate the decision while researchers retain methodological leadership and engineers own implementation quality.",
+    "In hiring conversations, ask for a concrete example of how a team changed direction after launch. Does the designer see customer evidence, or only delivery tickets? Is time reserved to address problems, or does every release immediately become someone else’s maintenance task? These questions reveal operating scope more reliably than a Staff label or a list of AI tools.",
+    "The practical move today: take one case study and add a short “what changed our mind” section. Include the artifact, the observation and the resulting decision. Where evidence is missing, state the gap. This is not an argument to become a researcher, engineer and product manager at once; it is an argument to make your contribution to a sound product decision visible."
+  ],
+  "priorities": [
+    "Add a “what changed our mind” section to one case study, with actual evidence and a bounded claim.",
+    "Show one failure or recovery state alongside the happy path; make interaction craft visible.",
+    "Compare roles by access to users, post-launch ownership and decision authority—not AI vocabulary alone."
+  ],
+  "sectionTitle": "Three signals · Research, tools and role boundaries",
+  "stories": [
+    {
+      "section": "Research practice · Published November 13",
+      "title": "Research moves into the release specification.",
+      "summary": "NN/G proposes building evaluation mechanisms alongside features and retaining qualitative inquiry and discovery. It explicitly warns that metrics alone do not establish causality and lists unresolved questions about ownership and sound evidence.",
+      "takeaway": "Editorial implication: partner with research on what a release can teach; do not treat faster instrumentation as permission to skip research judgment.",
+      "source": "NN/G · Tony Alicea · November 13, 2026 · checked November 13",
+      "url": "https://www.nngroup.com/articles/research-in-the-loop/"
+    },
+    {
+      "section": "AI design research · Submitted November 9",
+      "title": "Prompt-to-design is not the same as end-to-end design.",
+      "summary": "A new arXiv preprint reports interviews with 17 UI designers. Its abstract describes generators used mainly for ideation, alongside concerns about quality and creativity. This is a small qualitative study, not a controlled productivity benchmark.",
+      "takeaway": "Editorial implication: show where generated exploration helped and where you intervened. This evidence does not establish a market-wide role change.",
+      "source": "Ye, Li and Wang · arXiv preprint, November 9, 2026 · abstract reviewed November 13",
+      "url": "https://arxiv.org/abs/2611.13211"
+    },
+    {
+      "section": "Professional agenda · November 17–18 preview",
+      "title": "Role boundaries are a topic, not a settled new title.",
+      "summary": "The upcoming AI Product Design Summit lists sessions on agent-compatible design systems, blurred product/design/engineering boundaries and work beyond prototypes. Its speakers still span conventional Senior, Staff and Principal design titles.",
+      "takeaway": "Editorial implication: use the agenda as a skills checklist, not evidence that existing titles are disappearing. This is a program signal, not an endorsement or recommendation to buy a ticket.",
+      "source": "Official summit program · event November 17–18, 2026; page publication date not disclosed · checked November 13",
+      "url": "https://aiproductdesignsummit.com/"
+    }
+  ],
+  "coverage": [
+    "Sources checked November 13, 2026. Fresh NN/G practice proposal distinguished from empirical evidence; arXiv abstract only reviewed, peer-review status not established. Original portfolio exercise and career implications are editorial analysis.",
+    "Upcoming summit is a program preview, not a report of completed talks or demonstrated outcomes. No purchase recommendation.",
+    "Searches for current remote senior design and oncology openings did not establish a newly posted or materially changed eligible role. Five retained official descriptions and forms were opened in a rendered browser today; individual UTC verification times appear in the job desk. Discovery dates are not posting dates.",
+    "Full responsibilities and qualifications reviewed for all five roles: positive hands-on design scope and no required people-management duties identified. Private review records remain outside publication. Compensation and geography caveats preserved; no applications or outreach.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-13",
+    "checkedAt": "2026-11-13T19:02:24.988140+00:00",
+    "note": "November 13 refresh · Five retained official openings and usable application forms rechecked today; not newly posted jobs. Hands-on IC scope supported by listed responsibilities, not an employer guarantee. Pay, geography and leveling caveats remain.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-13T19:02:19.630917+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $150,000–$190,000 posted salary range; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-13T19:02:21.032745+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-13T19:02:22.407490+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-13T19:02:23.504383+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-13T19:02:24.988140+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}

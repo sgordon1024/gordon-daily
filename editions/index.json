@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-11-13",
+      "headline": "A release should produce learning, not just software.",
+      "summary": "Faster builds make the evidence plan more important. Senior designers can show how a product change becomes a defensible decision—not merely a finished prototype."
+    },
+    {
       "date": "2026-11-12",
       "headline": "Show how the work keeps moving after your handoff.",
       "summary": "AI fluency is easier to claim than operational leverage. A stronger senior-IC case explains how design decisions survive implementation, cross-team use and the next product change."
