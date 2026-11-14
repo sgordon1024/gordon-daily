@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-11-14",
+      "headline": "Broader contribution needs clearer craft ownership.",
+      "summary": "AI can widen who builds an interface without settling who judges its quality. Make that distinction visible in your work—and in the roles you consider."
+    },
+    {
       "date": "2026-11-13",
       "headline": "A release should produce learning, not just software.",
       "summary": "Faster builds make the evidence plan more important. Senior designers can show how a product change becomes a defensible decision—not merely a finished prototype."

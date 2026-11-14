@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-14",
+  "published": "8:31 AM Pacific",
+  "label": "SATURDAY EDITION",
+  "note": "Public career intelligence · Craft accountability, design-system context and a changed healthcare salary range.",
+  "kicker": "The weekend practice desk",
+  "headline": "Broader contribution needs clearer craft ownership.",
+  "summary": "AI can widen who builds an interface without settling who judges its quality. Make that distinction visible in your work—and in the roles you consider.",
+  "readTime": "6 minute read",
+  "body": [
+    "Today’s concrete hiring update is modest but useful: Talkiatry’s live Staff Product Designer listing and application now show $165,000–$205,000, above the range recorded in yesterday’s job desk. The change date is not disclosed. All five retained openings remain accessible with application forms. No broader overnight shift in design hiring or titles was established by this review; this weekend edition instead examines a practical question: what does design ownership mean when more people can build?",
+    "Atlassian’s November 10 account describes expanding production contributions from product managers and designers while engineers scope and review changes. It is a company-reported experiment, not proof that every organization should copy it. The useful career signal is a distinction between being able to produce an artifact and being accountable for its quality. The editorial implication: show how your expertise improves a decision, not simply that you can generate more screens.",
+    "Consider an original portfolio exercise: a support tool gains an AI-generated customer summary. A polished card is only the start. Decide which information earns visual priority, how a user distinguishes a source from an inference, what happens when evidence conflicts, and how the interface handles missing data. Then demonstrate the keyboard path, readable hierarchy and correction interaction. Those are concrete design contributions even when someone else generated the initial interface.",
+    "Now give the example an ownership map. Product clarifies the intended outcome; design specifies interaction behavior and evaluates whether people understand it; engineering checks implementation and reliability; research helps establish whether the evidence is sound. These boundaries are a proposed collaboration model, not universal job descriptions. The point is to avoid a review queue where everyone can comment but nobody can resolve a quality trade-off.",
+    "For systems work, the corresponding question is whether a component’s guidance reaches the builder in a usable form. A button name and color token do not communicate when an action is destructive, which confirmation is necessary, or how focus returns after a dialog closes. A useful contribution is a small set of examples and counterexamples that makes those choices inspectable. Tool architecture should serve that clarity; adopting an MCP server is not, by itself, a design outcome.",
+    "In a case study, put the original interface, the contested decision and the revised behavior together. Explain who helped evaluate it and which constraints survived implementation. If you have no measured outcome, show the decision evidence and state the limit. This makes senior IC influence visible without borrowing a management story or inflating a prototype into a production success.",
+    "In a hiring conversation, ask which quality decisions the designer owns and what happens when speed conflicts with that judgment. Also ask whether code contributions are optional, supported by engineering review, or effectively a second full-time discipline. A Staff title alone cannot answer those questions. The strongest opportunity combines meaningful hands-on work with enough authority and collaboration to make it good."
+  ],
+  "priorities": [
+    "Show one contested interaction decision, not just a generated final screen.",
+    "Compare openings by craft accountability and engineering support, not title alone.",
+    "Use today’s updated Talkiatry range; confirm compensation structure and role scope."
+  ],
+  "sectionTitle": "Three signals · Organization, systems and hiring",
+  "stories": [
+    {
+      "section": "Organizational scope · November 10",
+      "title": "More contributors does not mean less expertise.",
+      "summary": "Atlassian reports that more than 50 PMs and designers shipped over 100 engineering-approved changes in three months. It describes changing tasks and skills before redesigning roles. These are internal results, not a controlled industry benchmark.",
+      "takeaway": "Editorial implication: demonstrate judgment and collaboration alongside implementation fluency; this does not establish a replacement job title.",
+      "source": "Inside Atlassian · Avani Prabhakar · November 10, 2026 · checked November 14",
+      "url": "https://www.atlassian.com/blog/how-we-build/3-lessons-from-rebuilding-atlassians-product-development-lifecycle-for-people-and-agents"
+    },
+    {
+      "section": "Design systems · November 10",
+      "title": "Useful context beats a larger instruction bundle.",
+      "summary": "Headway argues for delivering component guidance in targeted pieces and measuring the cost of agent runs. Its advice draws on agency practice and an older, limited benchmark; it is not a universal performance guarantee.",
+      "takeaway": "Editorial implication: evaluate whether generated interfaces use the right patterns and behavior, alongside time and token cost.",
+      "source": "Headway · Tim Gremore · November 10, 2026 · checked November 14",
+      "url": "https://www.headway.io/blog/design-system-mcp-token-cost"
+    },
+    {
+      "section": "Hiring update · Observed November 14",
+      "title": "Talkiatry’s published range is higher today.",
+      "summary": "The official Staff Product Designer page and form now display $165K–$205K. The role still combines clinical AI, patient flows and design-system craft, with explicit senior IC scope. Neither posting date nor compensation-change date is disclosed.",
+      "takeaway": "The earlier $150K–$190K figure is superseded for current consideration. Confirm base versus total compensation and native-mobile expectations.",
+      "source": "Talkiatry official ATS · checked November 14, 2026; change date unknown",
+      "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391"
+    }
+  ],
+  "coverage": [
+    "Primary sources checked November 14, 2026. November 10 articles are within the seven-day window, not overnight news. No new broad industry shift is asserted. Portfolio exercise and career implications are original editorial analysis.",
+    "Five official employer descriptions and usable rendered application forms reverified November 14; exact UTC checks appear in the job desk. Full responsibilities and qualifications reviewed; IC scope supported and no required people-management duties identified. Private review records are not exported.",
+    "Talkiatry compensation differs from the November 13 recorded range. The employer gives no change date; no claim of a newly posted opening. Searches did not establish a newly posted eligible oncology role.",
+    "Public edition: personal agenda information is excluded. The original private snapshot is retained separately."
+  ],
+  "jobShortlist": {
+    "date": "2026-11-14",
+    "checkedAt": "2026-11-14T16:30:35.392386+00:00",
+    "note": "November 14 refresh · Five retained official openings and application forms rechecked today, not five newly posted jobs. Talkiatry now displays $165K–$205K, superseding the $150K–$190K range reported in the November 13 job desk; the employer does not disclose when it changed. Hands-on IC scope supported by listed responsibilities, not an employer guarantee.",
+    "jobs": [
+      {
+        "company": "Owner.com",
+        "role": "Staff Product Designer",
+        "location": "Remote — anywhere in the United States or Canada; San Francisco office optional.",
+        "compensation": "USD $190,000–$270,000 base/year, plus equity; varies by level and location.",
+        "recommendation": "Strong staff+ AI fit",
+        "reason": "Hands-on product direction, AI-powered business workflows and reusable systems offer substantial cross-product design scope.",
+        "caveat": "Hiring spans Senior, Staff and Principal; confirm leveling. Form asks for code examples, independently shipped work and AI-product design evidence; missing examples remain a gap.",
+        "url": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a",
+        "applyUrl": "https://jobs.ashbyhq.com/owner/14876095-0e3c-485b-871a-bc8d0e316e9a/application",
+        "verifiedAt": "2026-11-14T16:30:29.301775+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Talkiatry",
+        "role": "Staff Product Designer",
+        "location": "Remote — United States.",
+        "compensation": "USD $165,000–$205,000 posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong domain fit; compensation conditional",
+        "reason": "Explicit senior IC scope spans clinical AI, conversational interactions, patient portals and design-system evolution.",
+        "caveat": "Validate pay alignment, native-mobile craft and independent research depth. Mental healthcare, not oncology.",
+        "url": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391",
+        "applyUrl": "https://jobs.ashbyhq.com/talkiatry/4a40df83-4569-470d-bfe4-e98f8d33b391/application",
+        "verifiedAt": "2026-11-14T16:30:30.732117+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "EasyLlama",
+        "role": "Staff Product Designer",
+        "location": "Remote — US approved states only: AR, CA, CO, CT, FL, IL, LA, MA, MI, MN, NJ, NY, NC, OH, OR, PA, TN, TX, VA, WA, WI.",
+        "compensation": "USD $180,000–$200,000/year posted compensation; base-versus-total not explicitly specified.",
+        "recommendation": "Strong platform + AI fit",
+        "reason": "Explicit staff IC ownership combines enterprise workflows, trusted automation, experiments and shared interaction patterns.",
+        "caveat": "Requires 7+ years in multi-product B2B SaaS and measurable growth outcomes; establish that evidence in the portfolio.",
+        "url": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9",
+        "applyUrl": "https://jobs.ashbyhq.com/easyllama.com/1e82e622-eee7-486f-a54f-18ce80df94a9/application",
+        "verifiedAt": "2026-11-14T16:30:32.531572+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Hightouch",
+        "role": "Staff Product Designer, AI Creative Tools",
+        "location": "Remote — North America; optional offices in New York, San Francisco and Charlotte.",
+        "compensation": "Compensation unknown; no numeric range posted.",
+        "recommendation": "Conditional: scope and pay discussion",
+        "reason": "Hands-on agent workflows, customer research and early product definition offer a focused AI interaction-design opportunity.",
+        "caveat": "Pay undisclosed; no formal levels. Confirm geography and scope. Listing and form disagree on application limits; clarify before applying.",
+        "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
+        "applyUrl": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272/application",
+        "verifiedAt": "2026-11-14T16:30:33.881601+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      },
+      {
+        "company": "Runway",
+        "role": "Sr./Staff Product Designer",
+        "location": "Remote; eligible countries/states not specified in this listing. US salary range shown; other regions may differ.",
+        "compensation": "USD $220,000–$290,000/year US salary; other compensation is separate.",
+        "recommendation": "Selective creative-AI stretch",
+        "reason": "Web and mobile creative workflows combine visual craft, prototyping and cross-product consistency.",
+        "caveat": "Creative-tool knowledge and strong visual craft matter. Internal titles are flat; confirm scope and geographic eligibility.",
+        "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+        "applyUrl": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738/application",
+        "verifiedAt": "2026-11-14T16:30:35.392386+00:00",
+        "postedDate": "Not disclosed in reviewed listing"
+      }
+    ]
+  }
+}
